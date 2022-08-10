@@ -1,0 +1,31 @@
+{
+  "name": "minib/shikimori-api-php",
+  "description": "A PHP wrapper for Shikimori API",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["shikimori"],
+  "authors": [
+    {
+      "name": "YanGusik",
+      "email": "minibaev2001@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.5",
+    "php-coveralls/php-coveralls": "^2.5",
+    "squizlabs/php_codesniffer": "^3.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "ShikimoriAPI\\": "src/"
+    },
+    "scripts": {
+      "test": "phpcs src -v && phpunit"
+    }
+  }
+}
