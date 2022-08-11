@@ -25,7 +25,12 @@
       "ShikimoriAPI\\": "src/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
   "scripts": {
-    "test": "phpcs src -v && phpunit"
+    "test": "phpcs src -v && phpunit -vvv"
   }
 }

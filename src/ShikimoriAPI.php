@@ -17,7 +17,12 @@ class ShikimoriAPI
     protected Request $request;
     protected ?Session $session = null;
 
-    public function __construct($options = [], $session = null, $request = null)
+    /**
+     * @param array $options
+     * @param Session|null $session
+     * @param Request|null $request
+     */
+    public function __construct(array $options = [], Session $session = null, Request $request = null)
     {
         $this->setOptions($options);
         $this->setSession($session);
@@ -25,29 +30,64 @@ class ShikimoriAPI
         $this->request = $request ?? new Request();
     }
 
+    /**
+     * @return array
+     */
+    public function getLastResponse(): array
+    {
+        return $this->lastResponse;
+    }
+
+    /**
+     * @return Request
+     */
+    public function getRequest(): Request
+    {
+        return $this->request;
+    }
+
+    /**
+     * @param $options
+     * @return void
+     */
     public function setOptions($options): void
     {
         $this->options = array_merge($this->options, (array)$options);
     }
 
+    /**
+     * @param $session
+     * @return void
+     */
     public function setSession($session): void
     {
         $this->session = $session;
     }
 
-    public function whoami(): array
-    {
-        return $this->sendRequestWithToken('GET', '/users/whoami')['body'];
-    }
-
-    public function getRequest()
-    {
-        return $this->request;
-    }
-
+    /**
+     * @param $accessToken
+     * @return void
+     */
     public function setAccessToken($accessToken)
     {
         $this->accessToken = $accessToken;
+    }
+
+    /**
+     * @param array $headers
+     * @return array
+     */
+    protected function authHeaders(array $headers = []): array
+    {
+        $accessToken = $this->session ? $this->session->getAccessToken() : $this->accessToken;
+
+        if ($accessToken) {
+            $headers = array_merge($headers, [
+                'Authorization' => 'Bearer ' . $accessToken,
+            ]);
+        }
+
+        return $headers;
     }
 
     /**
@@ -56,12 +96,12 @@ class ShikimoriAPI
      * @param $parameters
      * @param $headers
      * @param $json
-     * @return array
-     * @throws ShikimoriAPIAuthException
+     * @param $withToken
+     * @return array|Closure
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
      */
-    public function sendRequestWithToken($method, $uri, $parameters = [], $headers = [], $json = true)
+    public function sendRequest($method, $uri, $parameters = [], $headers = [], $json = true, $withToken = false): array
     {
         $this->request->setOptions([
             'return_assoc' => $this->options['return_assoc'],
@@ -77,8 +117,8 @@ class ShikimoriAPI
             $headers = $this->authHeaders($headers);
 
             return $lastResponse = $this->request->api($method, $uri, $parameters, $headers);
-        } catch (ShikimoriAPIException $e) {
-            if ($this->options['auto_refresh'] && $e->hasExpiredToken()) {
+        } catch (ShikimoriAPIException $exception) {
+            if ($withToken && $this->options['auto_refresh'] && $exception->hasExpiredToken()) {
                 if ($this->session == null) {
                     throw new ShikimoriAPIException('You need use Session in ShikimoriAPI for auto_refresh');
                 }
@@ -88,36 +128,14 @@ class ShikimoriAPI
                     throw new ShikimoriAPIException('Could not refresh access token.');
                 }
 
-                return $this->sendRequestWithToken($method, $uri, $parameters, $headers);
-            } elseif ($this->options['auto_retry'] && $e->isRateLimited()) {
-                $lastResponse = $this->request->getLastResponse();
-                $retryAfter = $this->options['retry_after'];
-
-                sleep($retryAfter);
-
-                return $this->sendRequestWithToken($method, $uri, $parameters, $headers);
+                return $this->sendRequest($method, $uri, $parameters, $headers, $withToken);
+            } elseif ($this->options['auto_retry'] && $exception->isRateLimited()) {
+                sleep($this->options['retry_after']);
+                return $this->sendRequest($method, $uri, $parameters, $headers, $withToken);
             }
 
-            throw $e;
+            throw $exception;
         }
-    }
-
-    protected function authHeaders($headers = [])
-    {
-        $accessToken = $this->session ? $this->session->getAccessToken() : $this->accessToken;
-
-        if ($accessToken) {
-            $headers = array_merge($headers, [
-                'Authorization' => 'Bearer ' . $accessToken,
-            ]);
-        }
-
-        return $headers;
-    }
-
-    public function getLastResponse()
-    {
-        return $this->lastResponse;
     }
 
     /**
@@ -127,35 +145,31 @@ class ShikimoriAPI
      * @param $headers
      * @param $json
      * @return array
-     * @throws ShikimoriAPIAuthException
-     * @throws ShikimoriAPIException
-     * @throws ShikimoriAPINotFoundException
+     */
+    public function sendRequestWithToken($method, $uri, $parameters = [], $headers = [], $json = true): array
+    {
+        return $this->sendRequest($method, $uri, $parameters, $headers, $json, true);
+    }
+
+    /**
+     * @param $method
+     * @param $uri
+     * @param array $parameters
+     * @param array $headers
+     * @param bool $json
+     * @return array|Closure
      */
     public function sendRequestWithoutToken($method, $uri, $parameters = [], $headers = [], $json = true): array
     {
-        $this->request->setOptions([
-            'return_assoc' => $this->options['return_assoc'],
-        ]);
+        return $this->sendRequest($method, $uri, $parameters, $headers, $json);
+    }
 
-        if ($json) {
-            $headers = array_merge($headers, [
-                'Content-Type' => 'application/json',
-            ]);
-        }
-
-        try {
-            return $lastResponse = $this->request->api($method, $uri, $parameters, $headers);
-        } catch (ShikimoriAPIException $e) {
-            if ($this->options['auto_retry'] && $e->isRateLimited()) {
-                $lastResponse = $this->request->getLastResponse();
-                $retryAfter = $this->options['retry_after'];
-
-                sleep($retryAfter);
-
-                return $this->sendRequestWithoutToken($method, $uri, $parameters, $headers);
-            }
-
-            throw $e;
-        }
+    /**
+     * Me User info
+     * @return array
+     */
+    public function whoami(): array
+    {
+        return $this->sendRequestWithToken('GET', '/users/whoami')['body'];
     }
 }

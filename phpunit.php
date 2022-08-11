@@ -14,3 +14,12 @@ function error_handler($errno): bool
 {
     return $errno === E_USER_DEPRECATED;
 }
+
+// Test helper functions
+function get_fixture($fixture)
+{
+    $fixture = __DIR__ . '/tests/Fixtures/' . $fixture . '.json';
+    $fixture = file_get_contents($fixture);
+
+    return json_decode($fixture, true);
+}

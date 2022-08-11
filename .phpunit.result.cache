@@ -1,1 +1,0 @@
-{"version":1,"defects":{"ShikimoriAPITest::testAutoRefreshOption":3,"ShikimoriAPITest::testAutoRetryOption":3},"times":{"ShikimoriAPITest::testAutoRefreshOption":0.023,"ShikimoriAPITest::testAutoRetryOption":3.007}}

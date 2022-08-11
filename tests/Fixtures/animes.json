@@ -1,0 +1,952 @@
+[
+  {
+    "id": 1069,
+    "name": "Chou Denji Machine Voltes V",
+    "russian": "Суперэлектромагнитная машина Вольтес V",
+    "image": {
+      "original": "/system/animes/original/1069.jpg?1634713705",
+      "preview": "/system/animes/preview/1069.jpg?1634713705",
+      "x96": "/system/animes/x96/1069.jpg?1634713705",
+      "x48": "/system/animes/x48/1069.jpg?1634713705"
+    },
+    "url": "/animes/1069-chou-denji-machine-voltes-v",
+    "kind": "tv",
+    "score": "7.43",
+    "status": "released",
+    "episodes": 40,
+    "episodes_aired": 0,
+    "aired_on": "1977-06-04",
+    "released_on": "1978-03-25"
+  },
+  {
+    "id": 42923,
+    "name": "SK∞",
+    "russian": "Скейт: Бесконечность",
+    "image": {
+      "original": "/system/animes/original/42923.jpg?1645407431",
+      "preview": "/system/animes/preview/42923.jpg?1645407431",
+      "x96": "/system/animes/x96/42923.jpg?1645407431",
+      "x48": "/system/animes/x48/42923.jpg?1645407431"
+    },
+    "url": "/animes/42923-sk",
+    "kind": "tv",
+    "score": "8.04",
+    "status": "released",
+    "episodes": 12,
+    "episodes_aired": 12,
+    "aired_on": "2021-01-10",
+    "released_on": "2021-04-04"
+  },
+  {
+    "id": 18205,
+    "name": "World Fool News (TV)",
+    "russian": "Дурацкие мировые новости",
+    "image": {
+      "original": "/system/animes/original/18205.jpg?1635230834",
+      "preview": "/system/animes/preview/18205.jpg?1635230834",
+      "x96": "/system/animes/x96/18205.jpg?1635230834",
+      "x48": "/system/animes/x48/18205.jpg?1635230834"
+    },
+    "url": "/animes/18205-world-fool-news-tv",
+    "kind": "tv",
+    "score": "5.95",
+    "status": "released",
+    "episodes": 12,
+    "episodes_aired": 6,
+    "aired_on": "2014-04-17",
+    "released_on": "2014-07-03"
+  },
+  {
+    "id": 24923,
+    "name": "Chibikko Kamu no Bouken",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/24923.jpg?1634712973",
+      "preview": "/system/animes/preview/24923.jpg?1634712973",
+      "x96": "/system/animes/x96/24923.jpg?1634712973",
+      "x48": "/system/animes/x48/24923.jpg?1634712973"
+    },
+    "url": "/animes/24923-chibikko-kamu-no-bouken",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1976-09-15",
+    "released_on": null
+  },
+  {
+    "id": 24071,
+    "name": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/24071.jpg?1635236812",
+      "preview": "/system/animes/preview/24071.jpg?1635236812",
+      "x96": "/system/animes/x96/24071.jpg?1635236812",
+      "x48": "/system/animes/x48/24071.jpg?1635236812"
+    },
+    "url": "/animes/24071-gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana",
+    "kind": "movie",
+    "score": "6.21",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2014-09-27",
+    "released_on": null
+  },
+  {
+    "id": 48070,
+    "name": "Koushui Zha Wan",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/48070.jpg?1643597110",
+      "preview": "/system/animes/preview/48070.jpg?1643597110",
+      "x96": "/system/animes/x96/48070.jpg?1643597110",
+      "x48": "/system/animes/x48/48070.jpg?1643597110"
+    },
+    "url": "/animes/48070-koushui-zha-wan",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 20,
+    "episodes_aired": 0,
+    "aired_on": "2020-01-01",
+    "released_on": null
+  },
+  {
+    "id": 44208,
+    "name": "Yami Shibai 8",
+    "russian": "Ями Шибаи: Японские рассказы о привидениях 8",
+    "image": {
+      "original": "/system/animes/original/44208.jpg?1645405675",
+      "preview": "/system/animes/preview/44208.jpg?1645405675",
+      "x96": "/system/animes/x96/44208.jpg?1645405675",
+      "x48": "/system/animes/x48/44208.jpg?1645405675"
+    },
+    "url": "/animes/44208-yami-shibai-8",
+    "kind": "tv",
+    "score": "5.71",
+    "status": "released",
+    "episodes": 13,
+    "episodes_aired": 13,
+    "aired_on": "2021-01-11",
+    "released_on": "2021-04-05"
+  },
+  {
+    "id": 32384,
+    "name": "The New A-Class.: Next Stage with YOU",
+    "russian": "Мерседес-Бенц и Perfume",
+    "image": {
+      "original": "/system/animes/original/32384.jpg?1635249331",
+      "preview": "/system/animes/preview/32384.jpg?1635249331",
+      "x96": "/system/animes/x96/32384.jpg?1635249331",
+      "x48": "/system/animes/x48/32384.jpg?1635249331"
+    },
+    "url": "/animes/32384-the-new-a-class-next-stage-with-you",
+    "kind": "ona",
+    "score": "4.84",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2015-11-25",
+    "released_on": null
+  },
+  {
+    "id": 33828,
+    "name": "Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch",
+    "russian": "Пол Руш: Его жизнь и мечта",
+    "image": {
+      "original": "/system/animes/original/33828.jpg?1635254134",
+      "preview": "/system/animes/preview/33828.jpg?1635254134",
+      "x96": "/system/animes/x96/33828.jpg?1635254134",
+      "x48": "/system/animes/x48/33828.jpg?1635254134"
+    },
+    "url": "/animes/33828-yume-kakeru-kougen-kiyosato-no-chichi-paul-rusch",
+    "kind": "movie",
+    "score": "6.08",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2002-10-19",
+    "released_on": null
+  },
+  {
+    "id": 41399,
+    "name": "Katarina Nounai Kaigi",
+    "russian": "Собрание в голове Катарины",
+    "image": {
+      "original": "/system/animes/original/41399.jpg?1644816419",
+      "preview": "/system/animes/preview/41399.jpg?1644816419",
+      "x96": "/system/animes/x96/41399.jpg?1644816419",
+      "x48": "/system/animes/x48/41399.jpg?1644816419"
+    },
+    "url": "/animes/41399-katarina-nounai-kaigi",
+    "kind": "ona",
+    "score": "5.72",
+    "status": "released",
+    "episodes": 26,
+    "episodes_aired": 0,
+    "aired_on": "2020-02-29",
+    "released_on": "2020-05-08"
+  },
+  {
+    "id": 34997,
+    "name": "Ao no Strada",
+    "russian": "Голубая дорога",
+    "image": {
+      "original": "/system/animes/original/34997.jpg?1634671622",
+      "preview": "/system/animes/preview/34997.jpg?1634671622",
+      "x96": "/system/animes/x96/34997.jpg?1634671622",
+      "x48": "/system/animes/x48/34997.jpg?1634671622"
+    },
+    "url": "/animes/34997-ao-no-strada",
+    "kind": "ona",
+    "score": "5.41",
+    "status": "released",
+    "episodes": 4,
+    "episodes_aired": 0,
+    "aired_on": "2017-02-27",
+    "released_on": "2017-03-13"
+  },
+  {
+    "id": 2256,
+    "name": "Choujuu Kishin Dancougar: Ushinawareta Mono-tachi e no Requiem",
+    "russian": "Данкугар: Реквием по жертвам",
+    "image": {
+      "original": "/system/animes/original/2256.jpg?1634714271",
+      "preview": "/system/animes/preview/2256.jpg?1634714271",
+      "x96": "/system/animes/x96/2256.jpg?1634714271",
+      "x48": "/system/animes/x48/2256.jpg?1634714271"
+    },
+    "url": "/animes/2256-choujuu-kishin-dancougar-ushinawareta-mono-tachi-e-no-requiem",
+    "kind": "ova",
+    "score": "6.22",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1986-04-21",
+    "released_on": null
+  },
+  {
+    "id": 3735,
+    "name": "Ryuuseiki Gakusaver",
+    "russian": "Падающая звезда Гакусавер",
+    "image": {
+      "original": "/system/animes/original/3735.jpg?1635208630",
+      "preview": "/system/animes/preview/3735.jpg?1635208630",
+      "x96": "/system/animes/x96/3735.jpg?1635208630",
+      "x48": "/system/animes/x48/3735.jpg?1635208630"
+    },
+    "url": "/animes/3735-ryuuseiki-gakusaver",
+    "kind": "ova",
+    "score": "6.43",
+    "status": "released",
+    "episodes": 6,
+    "episodes_aired": 0,
+    "aired_on": "1993-08-21",
+    "released_on": "1994-03-24"
+  },
+  {
+    "id": 8450,
+    "name": "Guskou Budori no Denki",
+    "russian": "Жизнь Будори Гуско (1994)",
+    "image": {
+      "original": "/system/animes/original/8450.jpg?1659693376",
+      "preview": "/system/animes/preview/8450.jpg?1659693376",
+      "x96": "/system/animes/x96/8450.jpg?1659693376",
+      "x48": "/system/animes/x48/8450.jpg?1659693376"
+    },
+    "url": "/animes/8450-guskou-budori-no-denki",
+    "kind": "movie",
+    "score": "6.29",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1994-07-16",
+    "released_on": null
+  },
+  {
+    "id": 52224,
+    "name": "Gakitabi!: Akechi no Furusato",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/52224.jpg?1660154641",
+      "preview": "/system/animes/preview/52224.jpg?1660154641",
+      "x96": "/system/animes/x96/52224.jpg?1660154641",
+      "x48": "/system/animes/x48/52224.jpg?1660154641"
+    },
+    "url": "/animes/52224-gakitabi-akechi-no-furusato",
+    "kind": "ona",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2021-03-10",
+    "released_on": null
+  },
+  {
+    "id": 1708,
+    "name": "Majuu Sensen: The Apocalypse",
+    "russian": "Битва с демонами: Апокалипсис",
+    "image": {
+      "original": "/system/animes/original/1708.jpg?1635201458",
+      "preview": "/system/animes/preview/1708.jpg?1635201458",
+      "x96": "/system/animes/x96/1708.jpg?1635201458",
+      "x48": "/system/animes/x48/1708.jpg?1635201458"
+    },
+    "url": "/animes/1708-majuu-sensen-the-apocalypse",
+    "kind": "tv",
+    "score": "5.35",
+    "status": "released",
+    "episodes": 13,
+    "episodes_aired": 0,
+    "aired_on": "2003-02-23",
+    "released_on": "2003-05-18"
+  },
+  {
+    "id": 39279,
+    "name": "Human Orchestra",
+    "russian": "Человеческий оркестр",
+    "image": {
+      "original": "/system/animes/original/39279.jpg?1644837673",
+      "preview": "/system/animes/preview/39279.jpg?1644837673",
+      "x96": "/system/animes/x96/39279.jpg?1644837673",
+      "x48": "/system/animes/x48/39279.jpg?1644837673"
+    },
+    "url": "/animes/39279-human-orchestra",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2010-09-16",
+    "released_on": null
+  },
+  {
+    "id": 31436,
+    "name": "Danchi Tomoo: Natsuyasumi no Shukudai wa Owatta no ka yo? Tomoo",
+    "russian": "Парк Томо: Домашнее задание в конце летних каникул?",
+    "image": {
+      "original": "/system/animes/original/31436.jpg?1634717835",
+      "preview": "/system/animes/preview/31436.jpg?1634717835",
+      "x96": "/system/animes/x96/31436.jpg?1634717835",
+      "x48": "/system/animes/x48/31436.jpg?1634717835"
+    },
+    "url": "/animes/31436-danchi-tomoo-natsuyasumi-no-shukudai-wa-owatta-no-ka-yo-tomoo",
+    "kind": "special",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2015-08-14",
+    "released_on": null
+  },
+  {
+    "id": 23659,
+    "name": "Hi no Tori: Hagoromo-hen",
+    "russian": "Жар-птица: Глава о платье из перьев",
+    "image": {
+      "original": "/system/animes/original/23659.jpg?1635236355",
+      "preview": "/system/animes/preview/23659.jpg?1635236355",
+      "x96": "/system/animes/x96/23659.jpg?1635236355",
+      "x48": "/system/animes/x48/23659.jpg?1635236355"
+    },
+    "url": "/animes/23659-hi-no-tori-hagoromo-hen",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2004-07-17",
+    "released_on": null
+  },
+  {
+    "id": 43867,
+    "name": "Huixiang",
+    "russian": "Воспоминание",
+    "image": {
+      "original": "/system/animes/original/43867.jpg?1649267029",
+      "preview": "/system/animes/preview/43867.jpg?1649267029",
+      "x96": "/system/animes/x96/43867.jpg?1649267029",
+      "x48": "/system/animes/x48/43867.jpg?1649267029"
+    },
+    "url": "/animes/43867-huixiang",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2002-01-01",
+    "released_on": null
+  },
+  {
+    "id": 14095,
+    "name": "Kamen Rider Fourze x Crayon Shin-chan",
+    "russian": "Син-тян и Наездник в маске Форзе",
+    "image": {
+      "original": "/system/animes/original/14095.jpg?1635226577",
+      "preview": "/system/animes/preview/14095.jpg?1635226577",
+      "x96": "/system/animes/x96/14095.jpg?1635226577",
+      "x48": "/system/animes/x48/14095.jpg?1635226577"
+    },
+    "url": "/animes/14095-kamen-rider-fourze-x-crayon-shin-chan",
+    "kind": "special",
+    "score": "5.85",
+    "status": "released",
+    "episodes": 4,
+    "episodes_aired": 0,
+    "aired_on": "2012-04-13",
+    "released_on": "2012-04-29"
+  },
+  {
+    "id": 36537,
+    "name": "Starmyu in Halloween",
+    "russian": "Музыкальная школа звёзд в Хэллоуин",
+    "image": {
+      "original": "/system/animes/original/36537.jpg?1635263774",
+      "preview": "/system/animes/preview/36537.jpg?1635263774",
+      "x96": "/system/animes/x96/36537.jpg?1635263774",
+      "x48": "/system/animes/x48/36537.jpg?1635263774"
+    },
+    "url": "/animes/36537-starmyu-in-halloween",
+    "kind": "ova",
+    "score": "6.98",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 1,
+    "aired_on": "2018-10-24",
+    "released_on": null
+  },
+  {
+    "id": 24355,
+    "name": "Gaia Getter A-kun",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/24355.jpg?1635237313",
+      "preview": "/system/animes/preview/24355.jpg?1635237313",
+      "x96": "/system/animes/x96/24355.jpg?1635237313",
+      "x48": "/system/animes/x48/24355.jpg?1635237313"
+    },
+    "url": "/animes/24355-gaia-getter-a-kun",
+    "kind": "ona",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 2,
+    "episodes_aired": 0,
+    "aired_on": "2002-06-01",
+    "released_on": null
+  },
+  {
+    "id": 52196,
+    "name": "Date A Live V",
+    "russian": "Рандеву с жизнью 5",
+    "image": {
+      "original": "/system/animes/original/52196.jpg?1656135525",
+      "preview": "/system/animes/preview/52196.jpg?1656135525",
+      "x96": "/system/animes/x96/52196.jpg?1656135525",
+      "x48": "/system/animes/x48/52196.jpg?1656135525"
+    },
+    "url": "/animes/52196-date-a-live-v",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  },
+  {
+    "id": 14563,
+    "name": "Maji de Otaku na English! Ribbon-chan: Eigo de Tatakau Mahou Shoujo",
+    "russian": "Риббон: Девочка-волшебница, сражающаяся на английском языке",
+    "image": {
+      "original": "/system/animes/original/14563.jpg?1635226845",
+      "preview": "/system/animes/preview/14563.jpg?1635226845",
+      "x96": "/system/animes/x96/14563.jpg?1635226845",
+      "x48": "/system/animes/x48/14563.jpg?1635226845"
+    },
+    "url": "/animes/14563-maji-de-otaku-na-english-ribbon-chan-eigo-de-tatakau-mahou-shoujo",
+    "kind": "tv",
+    "score": "5.25",
+    "status": "released",
+    "episodes": 12,
+    "episodes_aired": 6,
+    "aired_on": "2012-07-31",
+    "released_on": "2012-11-16"
+  },
+  {
+    "id": 37290,
+    "name": "Ani x Para: Anata no Hero wa Dare desu ka",
+    "russian": "Анимация × Паралимпиада: Кто ваш герой?",
+    "image": {
+      "original": "/system/animes/original/37290.jpg?1659600823",
+      "preview": "/system/animes/preview/37290.jpg?1659600823",
+      "x96": "/system/animes/x96/37290.jpg?1659600823",
+      "x48": "/system/animes/x48/37290.jpg?1659600823"
+    },
+    "url": "/animes/37290-ani-x-para-anata-no-hero-wa-dare-desu-ka",
+    "kind": "special",
+    "score": "6.51",
+    "status": "ongoing",
+    "episodes": 15,
+    "episodes_aired": 11,
+    "aired_on": "2017-11-10",
+    "released_on": "2022-08-22"
+  },
+  {
+    "id": 52243,
+    "name": "Himitsu no Pommepomme-chan",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/52243.jpg?1660154931",
+      "preview": "/system/animes/preview/52243.jpg?1660154931",
+      "x96": "/system/animes/x96/52243.jpg?1660154931",
+      "x48": "/system/animes/x48/52243.jpg?1660154931"
+    },
+    "url": "/animes/52243-himitsu-no-pommepomme-chan",
+    "kind": "ova",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 3,
+    "episodes_aired": 0,
+    "aired_on": "2016-12-12",
+    "released_on": "2018-12-12"
+  },
+  {
+    "id": 32933,
+    "name": "Xiao Yeyou",
+    "russian": "Маленькое ночное приключение",
+    "image": {
+      "original": "/system/animes/original/32933.jpg?1658166459",
+      "preview": "/system/animes/preview/32933.jpg?1658166459",
+      "x96": "/system/animes/x96/32933.jpg?1658166459",
+      "x48": "/system/animes/x48/32933.jpg?1658166459"
+    },
+    "url": "/animes/32933-xiao-yeyou",
+    "kind": "ona",
+    "score": "5.32",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 1,
+    "aired_on": "2014-03-12",
+    "released_on": null
+  },
+  {
+    "id": 9318,
+    "name": "Samero",
+    "russian": "Просыпайся",
+    "image": {
+      "original": "/system/animes/original/9318.jpg?1633880724",
+      "preview": "/system/animes/preview/9318.jpg?1633880724",
+      "x96": "/system/animes/x96/9318.jpg?1633880724",
+      "x48": "/system/animes/x48/9318.jpg?1633880724"
+    },
+    "url": "/animes/9318-samero",
+    "kind": "movie",
+    "score": "4.49",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1992-01-01",
+    "released_on": null
+  },
+  {
+    "id": 35805,
+    "name": "Cinderella Girls Gekijou Specials",
+    "russian": "Девушки-золушки: Спецвыпуски",
+    "image": {
+      "original": "/system/animes/original/35805.jpg?1634715311",
+      "preview": "/system/animes/preview/35805.jpg?1634715311",
+      "x96": "/system/animes/x96/35805.jpg?1634715311",
+      "x48": "/system/animes/x48/35805.jpg?1634715311"
+    },
+    "url": "/animes/35805-cinderella-girls-gekijou-specials",
+    "kind": "special",
+    "score": "6.3",
+    "status": "released",
+    "episodes": 2,
+    "episodes_aired": 0,
+    "aired_on": "2017-06-28",
+    "released_on": "2017-07-26"
+  },
+  {
+    "id": 32557,
+    "name": "Zombie Clay Animation: I'm Stuck!!",
+    "russian": "Пластилиновые зомби: Я застрял!!",
+    "image": {
+      "original": "/system/animes/original/32557.jpg?1635249885",
+      "preview": "/system/animes/preview/32557.jpg?1635249885",
+      "x96": "/system/animes/x96/32557.jpg?1635249885",
+      "x48": "/system/animes/x48/32557.jpg?1635249885"
+    },
+    "url": "/animes/32557-zombie-clay-animation-i-m-stuck",
+    "kind": "ona",
+    "score": "5.16",
+    "status": "released",
+    "episodes": 4,
+    "episodes_aired": 0,
+    "aired_on": "2014-03-02",
+    "released_on": "2014-05-08"
+  },
+  {
+    "id": 23829,
+    "name": "Komatsu Sakyo Anime Gekijou",
+    "russian": "Анимационный театр Сакё Комацу",
+    "image": {
+      "original": "/system/animes/original/23829.jpg?1635236764",
+      "preview": "/system/animes/preview/23829.jpg?1635236764",
+      "x96": "/system/animes/x96/23829.jpg?1635236764",
+      "x48": "/system/animes/x48/23829.jpg?1635236764"
+    },
+    "url": "/animes/23829-komatsu-sakyo-anime-gekijou",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 24,
+    "episodes_aired": 0,
+    "aired_on": "1989-10-19",
+    "released_on": "1990-03-29"
+  },
+  {
+    "id": 39110,
+    "name": "Yousei Chii-tan☆",
+    "russian": "Фея Ти-тан",
+    "image": {
+      "original": "/system/animes/original/39110.jpg?1641648194",
+      "preview": "/system/animes/preview/39110.jpg?1641648194",
+      "x96": "/system/animes/x96/39110.jpg?1641648194",
+      "x48": "/system/animes/x48/39110.jpg?1641648194"
+    },
+    "url": "/animes/39110-yousei-chii-tan",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  },
+  {
+    "id": 51212,
+    "name": "Futoku no Guild",
+    "russian": "Развращённая гильдия",
+    "image": {
+      "original": "/system/animes/original/51212.jpg?1654828121",
+      "preview": "/system/animes/preview/51212.jpg?1654828121",
+      "x96": "/system/animes/x96/51212.jpg?1654828121",
+      "x48": "/system/animes/x48/51212.jpg?1654828121"
+    },
+    "url": "/animes/51212-futoku-no-guild",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": "2022-10-01",
+    "released_on": null
+  },
+  {
+    "id": 38481,
+    "name": "Toaru Kagaku no Railgun T",
+    "russian": "Некий научный Рейлган T",
+    "image": {
+      "original": "/system/animes/original/38481.jpg?1644240429",
+      "preview": "/system/animes/preview/38481.jpg?1644240429",
+      "x96": "/system/animes/x96/38481.jpg?1644240429",
+      "x48": "/system/animes/x48/38481.jpg?1644240429"
+    },
+    "url": "/animes/38481-toaru-kagaku-no-railgun-t",
+    "kind": "tv",
+    "score": "8.2",
+    "status": "released",
+    "episodes": 25,
+    "episodes_aired": 25,
+    "aired_on": "2020-01-10",
+    "released_on": "2020-09-25"
+  },
+  {
+    "id": 9734,
+    "name": "K-On!!: Keikaku!",
+    "russian": "Кэйон!! План!",
+    "image": {
+      "original": "/system/animes/original/9734.jpg?1635220348",
+      "preview": "/system/animes/preview/9734.jpg?1635220348",
+      "x96": "/system/animes/x96/9734.jpg?1635220348",
+      "x48": "/system/animes/x48/9734.jpg?1635220348"
+    },
+    "url": "/animes/9734-k-on-keikaku",
+    "kind": "special",
+    "score": "7.84",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2011-03-16",
+    "released_on": null
+  },
+  {
+    "id": 52701,
+    "name": "Dungeon Meshi (TV)",
+    "russian": "Подземелье вкусностей",
+    "image": {
+      "original": "/system/animes/original/52701.jpg?1660121916",
+      "preview": "/system/animes/preview/52701.jpg?1660121916",
+      "x96": "/system/animes/x96/52701.jpg?1660121916",
+      "x48": "/system/animes/x48/52701.jpg?1660121916"
+    },
+    "url": "/animes/52701-dungeon-meshi-tv",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  },
+  {
+    "id": 48861,
+    "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+    "russian": "",
+    "image": {
+      "original": "/system/animes/original/48861.jpg?1658683582",
+      "preview": "/system/animes/preview/48861.jpg?1658683582",
+      "x96": "/system/animes/x96/48861.jpg?1658683582",
+      "x48": "/system/animes/x48/48861.jpg?1658683582"
+    },
+    "url": "/animes/48861-chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsu-hen",
+    "kind": "special",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 3,
+    "episodes_aired": 0,
+    "aired_on": "2020-08-26",
+    "released_on": null
+  },
+  {
+    "id": 32927,
+    "name": "Mobile Suit Gundam UC: A Phantom World",
+    "russian": "Мобильный воин Гандам: Единорог — Призрачный мир",
+    "image": {
+      "original": "/system/animes/original/32927.jpg?1635251372",
+      "preview": "/system/animes/preview/32927.jpg?1635251372",
+      "x96": "/system/animes/x96/32927.jpg?1635251372",
+      "x48": "/system/animes/x48/32927.jpg?1635251372"
+    },
+    "url": "/animes/32927-mobile-suit-gundam-uc-a-phantom-world",
+    "kind": "special",
+    "score": "5.83",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 1,
+    "aired_on": "2016-03-26",
+    "released_on": null
+  },
+  {
+    "id": 43984,
+    "name": "Xi Yangyang Yu Hui Tai Lang: Qi Si Miao Xiang Xi Yangyang",
+    "russian": "Славная коза и большой-большой волк 4",
+    "image": {
+      "original": "/system/animes/original/43984.jpg?1644806821",
+      "preview": "/system/animes/preview/43984.jpg?1644806821",
+      "x96": "/system/animes/x96/43984.jpg?1644806821",
+      "x48": "/system/animes/x48/43984.jpg?1644806821"
+    },
+    "url": "/animes/43984-xi-yangyang-yu-hui-tai-lang-qi-si-miao-xiang-xi-yangyang",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 60,
+    "episodes_aired": 0,
+    "aired_on": "2011-07-06",
+    "released_on": null
+  },
+  {
+    "id": 10194,
+    "name": "Bada-ui Jeonseol Jangbogo",
+    "russian": "Легенда моря",
+    "image": {
+      "original": "/system/animes/original/10194.jpg?1634673687",
+      "preview": "/system/animes/preview/10194.jpg?1634673687",
+      "x96": "/system/animes/x96/10194.jpg?1634673687",
+      "x48": "/system/animes/x48/10194.jpg?1634673687"
+    },
+    "url": "/animes/10194-bada-ui-jeonseol-jangbogo",
+    "kind": "tv",
+    "score": "6.03",
+    "status": "released",
+    "episodes": 26,
+    "episodes_aired": 26,
+    "aired_on": "2002-01-01",
+    "released_on": null
+  },
+  {
+    "id": 30760,
+    "name": "Momoiro no Crayon",
+    "russian": "Персиковый мелок",
+    "image": {
+      "original": "/system/animes/original/30760.jpg?1635245081",
+      "preview": "/system/animes/preview/30760.jpg?1635245081",
+      "x96": "/system/animes/x96/30760.jpg?1635245081",
+      "x48": "/system/animes/x48/30760.jpg?1635245081"
+    },
+    "url": "/animes/30760-momoiro-no-crayon",
+    "kind": "ova",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2006-01-01",
+    "released_on": null
+  },
+  {
+    "id": 10798,
+    "name": "Un-Go",
+    "russian": "Ан-го",
+    "image": {
+      "original": "/system/animes/original/10798.jpg?1635223296",
+      "preview": "/system/animes/preview/10798.jpg?1635223296",
+      "x96": "/system/animes/x96/10798.jpg?1635223296",
+      "x48": "/system/animes/x48/10798.jpg?1635223296"
+    },
+    "url": "/animes/z10798-un-go",
+    "kind": "tv",
+    "score": "7.37",
+    "status": "released",
+    "episodes": 11,
+    "episodes_aired": 11,
+    "aired_on": "2011-10-14",
+    "released_on": "2011-12-23"
+  },
+  {
+    "id": 48981,
+    "name": "Mahou Shoujo Magical Destroyers",
+    "russian": "Девочки-волшебницы: Волшебные разрушительницы",
+    "image": {
+      "original": "/system/animes/original/48981.jpg?1647016744",
+      "preview": "/system/animes/preview/48981.jpg?1647016744",
+      "x96": "/system/animes/x96/48981.jpg?1647016744",
+      "x48": "/system/animes/x48/48981.jpg?1647016744"
+    },
+    "url": "/animes/48981-mahou-shoujo-magical-destroyers",
+    "kind": "tv",
+    "score": "0.0",
+    "status": "anons",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  },
+  {
+    "id": 42282,
+    "name": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X",
+    "russian": "Моя реинкарнация в отомэ-игре в качестве главной злодейки 2",
+    "image": {
+      "original": "/system/animes/original/42282.jpg?1641186110",
+      "preview": "/system/animes/preview/42282.jpg?1641186110",
+      "x96": "/system/animes/x96/42282.jpg?1641186110",
+      "x48": "/system/animes/x48/42282.jpg?1641186110"
+    },
+    "url": "/animes/42282-otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-x",
+    "kind": "tv",
+    "score": "7.26",
+    "status": "released",
+    "episodes": 12,
+    "episodes_aired": 12,
+    "aired_on": "2021-07-03",
+    "released_on": "2021-09-18"
+  },
+  {
+    "id": 40737,
+    "name": "Tumbled Cat",
+    "russian": "Упавшая кошка",
+    "image": {
+      "original": "/system/animes/original/40737.jpg?1644223636",
+      "preview": "/system/animes/preview/40737.jpg?1644223636",
+      "x96": "/system/animes/x96/40737.jpg?1644223636",
+      "x48": "/system/animes/x48/40737.jpg?1644223636"
+    },
+    "url": "/animes/40737-tumbled-cat",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "2014-01-01",
+    "released_on": null
+  },
+  {
+    "id": 21677,
+    "name": "Captain Earth",
+    "russian": "Капитан Земля",
+    "image": {
+      "original": "/system/animes/original/21677.jpg?1634711327",
+      "preview": "/system/animes/preview/21677.jpg?1634711327",
+      "x96": "/system/animes/x96/21677.jpg?1634711327",
+      "x48": "/system/animes/x48/21677.jpg?1634711327"
+    },
+    "url": "/animes/21677-captain-earth",
+    "kind": "tv",
+    "score": "6.41",
+    "status": "released",
+    "episodes": 25,
+    "episodes_aired": 25,
+    "aired_on": "2014-04-06",
+    "released_on": "2014-09-21"
+  },
+  {
+    "id": 39588,
+    "name": "Ojamajo Doremi: Owarai Gekijou",
+    "russian": "Невезучая ведьма Дореми: Театр комедии",
+    "image": {
+      "original": "/system/animes/original/39588.jpg?1644231893",
+      "preview": "/system/animes/preview/39588.jpg?1644231893",
+      "x96": "/system/animes/x96/39588.jpg?1644231893",
+      "x48": "/system/animes/x48/39588.jpg?1644231893"
+    },
+    "url": "/animes/39588-ojamajo-doremi-owarai-gekijou",
+    "kind": "ona",
+    "score": "6.23",
+    "status": "released",
+    "episodes": 26,
+    "episodes_aired": 2,
+    "aired_on": "2019-03-23",
+    "released_on": "2020-03-22"
+  },
+  {
+    "id": 43497,
+    "name": "Tai Lyu",
+    "russian": "Перенос осла",
+    "image": {
+      "original": "/system/animes/original/43497.jpg?1643608076",
+      "preview": "/system/animes/preview/43497.jpg?1643608076",
+      "x96": "/system/animes/x96/43497.jpg?1643608076",
+      "x48": "/system/animes/x48/43497.jpg?1643608076"
+    },
+    "url": "/animes/43497-tai-lyu",
+    "kind": "movie",
+    "score": "0.0",
+    "status": "released",
+    "episodes": 1,
+    "episodes_aired": 0,
+    "aired_on": "1981-01-01",
+    "released_on": null
+  },
+  {
+    "id": 7245,
+    "name": "Sekai Meisaku Douwa: Wow! Maerchen Oukoku",
+    "russian": "Самые известные в мире сказки",
+    "image": {
+      "original": "/system/animes/original/7245.jpg?1635216091",
+      "preview": "/system/animes/preview/7245.jpg?1635216091",
+      "x96": "/system/animes/x96/7245.jpg?1635216091",
+      "x48": "/system/animes/x48/7245.jpg?1635216091"
+    },
+    "url": "/animes/7245-sekai-meisaku-douwa-wow-maerchen-oukoku",
+    "kind": "tv",
+    "score": "6.53",
+    "status": "released",
+    "episodes": 26,
+    "episodes_aired": 0,
+    "aired_on": "1995-04-07",
+    "released_on": "1995-09-29"
+  }
+]

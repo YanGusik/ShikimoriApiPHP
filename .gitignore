@@ -1,5 +1,6 @@
 ##### Windows
 
+.phpunit.result.cache
 .idea*
 
 # Windows thumbnail cache files
