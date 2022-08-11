@@ -112,7 +112,7 @@ class Session
         return false;
     }
 
-    public function requestAccessToken($authorizationCode, $codeVerifier = ''): bool
+    public function requestAccessToken($authorizationCode): bool
     {
         $parameters = [
             'grant_type' => 'authorization_code',
