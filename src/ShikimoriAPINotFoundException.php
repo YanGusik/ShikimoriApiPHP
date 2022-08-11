@@ -7,7 +7,7 @@ namespace ShikimoriAPI;
 class ShikimoriAPINotFoundException extends \Exception
 {
     private $reason;
-    
+
     public function getReason()
     {
         return $this->reason;

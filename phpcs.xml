@@ -6,4 +6,5 @@
             <property name="eolChar" value="\r\n"/>
         </properties>
     </rule>
+    <rule ref="PSR1"><exclude name="PSR1.Classes.ClassDeclaration.MissingNamespace" /></rule>
 </ruleset>

@@ -7,7 +7,7 @@ namespace ShikimoriAPI;
 class ShikimoriAPIValidationException extends \Exception
 {
     private $reason;
-    
+
     public function getReason()
     {
         return $this->reason;

@@ -23,9 +23,9 @@
   "autoload": {
     "psr-4": {
       "ShikimoriAPI\\": "src/"
-    },
-    "scripts": {
-      "test": "phpcs src -v && phpunit"
     }
+  },
+  "scripts": {
+    "test": "phpcs src -v && phpunit"
   }
 }

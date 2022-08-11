@@ -12,6 +12,7 @@ class ShikimoriAPI
         'auto_refresh' => false,
         'auto_retry' => false,
         'return_assoc' => true,
+        'retry_after' => 3,
     ];
     protected Request $request;
     protected ?Session $session = null;
@@ -32,6 +33,11 @@ class ShikimoriAPI
     public function setSession($session): void
     {
         $this->session = $session;
+    }
+
+    public function whoami(): array
+    {
+        return $this->sendRequestWithToken('GET', '/users/whoami')['body'];
     }
 
     public function getRequest()
@@ -85,7 +91,7 @@ class ShikimoriAPI
                 return $this->sendRequestWithToken($method, $uri, $parameters, $headers);
             } elseif ($this->options['auto_retry'] && $e->isRateLimited()) {
                 $lastResponse = $this->request->getLastResponse();
-                $retryAfter = (int)$lastResponse['headers']['retry-after'];
+                $retryAfter = $this->options['retry_after'];
 
                 sleep($retryAfter);
 
@@ -142,7 +148,7 @@ class ShikimoriAPI
         } catch (ShikimoriAPIException $e) {
             if ($this->options['auto_retry'] && $e->isRateLimited()) {
                 $lastResponse = $this->request->getLastResponse();
-                $retryAfter = (int)$lastResponse['headers']['retry-after'];
+                $retryAfter = $this->options['retry_after'];
 
                 sleep($retryAfter);
 

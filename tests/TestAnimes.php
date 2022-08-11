@@ -21,8 +21,8 @@ $api = new ShikimoriAPI\ShikimoriAPI(['auto_refresh' => true], $session);
 
 $b = [];
 
-$session->setAccessToken('OK69Zrh8bwZn1f2zoJrswrrj2KBqdYRJnGkbpfnVtQE');
-$session->setRefreshToken('W-uzspF4ghV_cqe0-DI6b4yGK9FQofA6-WlSYWPauss');
+$session->setAccessToken('8qswAXvojhx-5H2bBGxloG65mhAyDuKo18GlpcQxIrE');
+$session->setRefreshToken('6LzJ7G0VHBqjPX1VuUkDxLqfut6mqy1LkKZxNNnKri4');
 
 $b[] = $session->getAccessToken();
 
@@ -33,7 +33,7 @@ $animesResource = new Animes();
 $animes = $animesResource->getAll();
 
 
-$b[] = $animesResource->releated((int)$animes[0]['id']);
+$b[] = $api->whoami();
 
 
 print_r($b);

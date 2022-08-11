@@ -165,6 +165,11 @@ class Request
         return $parsedHeaders;
     }
 
+    /**
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPINotFoundException
+     */
     protected function handleResponseError($body, $status)
     {
         $parsedBody = json_decode($body);
@@ -179,6 +184,8 @@ class Request
                 throw new ShikimoriAPIAuthException($parsedBody->error_description, $status, $parsedBody->error);
             case 404:
                 throw new ShikimoriAPINotFoundException("Not found resources", $status, $body);
+            case 429:
+                throw new ShikimoriAPIException('Retry later', $status);
             default:
                 throw new ShikimoriAPIException('An unknown error occurred.', $status, $parsedBody);
         }
