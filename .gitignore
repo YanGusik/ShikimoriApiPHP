@@ -2,6 +2,7 @@
 
 .phpunit.result.cache
 .idea*
+.coveralls*
 
 # Windows thumbnail cache files
 Thumbs.db
