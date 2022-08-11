@@ -113,4 +113,4 @@ print_r($dialog->getAll());
 For more instructions and examples, check out the [documentation](/docs/). (soon)
 
 ## License
-MIT license. Please see [LICENSE.md](LICENSE.md) for more info.
+MIT license. Please see [LICENSE](LICENSE) for more info.
