@@ -16,6 +16,7 @@ This is a PHP wrapper for [Shikimori Web API](https://shikimori.one/api/doc/1.0)
 ## Requirements
 * PHP 7.4 or later.
 * PHP [cURL extension](http://php.net/manual/en/book.curl.php) (Usually included with PHP).
+* PHP [Json extension](https://www.php.net/manual/en/book.json) (Usually included with PHP).
 
 ## Installation
 Install it using [Composer](https://getcomposer.org/):
