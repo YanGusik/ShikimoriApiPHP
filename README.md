@@ -37,10 +37,14 @@ $session = new ShikimoriAPI\Session(
     'REDIRECT_URI'
 );
 
-$api = new ShikimoriAPI\ShikimoriAPI();
+$api = new ShikimoriAPI\ShikimoriAPI(['auto_refresh' => false]);
 
 if (isset($_GET['code'])) {
     $session->requestAccessToken($_GET['code']);
+    
+    // use session to make auto-refresh token auto_refresh = true
+    $api->setSession($session);
+    // or just a token if you don't need auto-refresh token 
     $api->setAccessToken($session->getAccessToken());
 
     print_r($api->whoami());
@@ -54,6 +58,57 @@ if (isset($_GET['code'])) {
     header('Location: ' . $session->getAuthorizeUrl($options));
     die();
 }
+```
+
+### Some resources do not require a token, such as anime
+
+```php
+require 'vendor/autoload.php';
+
+$animes = new \ShikimoriAPI\Resources\Animes();
+
+$animeList = $animes->getAll([['order' => 'popularity', 'status' => 'latest', 'limit' => 50]]);
+
+print_r($animeList); 
+/** 
+ * [
+ *  ["id" => 1069,
+ *  "name" => "Chou Denji Machine Voltes V",
+ *  "russian" => "Суперэлектромагнитная машина Вольтес V",
+ *  "image": { ...
+
+```
+All options for getAll can see at [documentation Shikimori](https://shikimori.one/api/doc/1.0/animes/index).
+
+### If the resource requires a token, such as Dialog
+
+```php
+require 'vendor/autoload.php';
+
+
+
+$api = new \ShikimoriAPI\ShikimoriAPI();
+$api->setAccessToken('TOKEN');
+
+$dialog = new \ShikimoriAPI\Resources\Dialogs($api);
+print_r($dialog->getAll());
+
+// or 
+
+$session = new ShikimoriAPI\Session(
+    'CLIENT_ID',
+    'CLIENT_SECRET',
+    'REDIRECT_URI'
+);
+$session->setAccessToken('TOKEN');
+$session->setRefreshToken('TOKEN');
+
+$api = new ShikimoriAPI\ShikimoriAPI(['auto_refresh' => true]);
+$api->setSession($session);
+
+$dialog = new \ShikimoriAPI\Resources\Dialogs($api);
+print_r($dialog->getAll());
+
 ```
 
 For more instructions and examples, check out the [documentation](/docs/). (soon)
