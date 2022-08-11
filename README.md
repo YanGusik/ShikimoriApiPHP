@@ -86,8 +86,6 @@ All options for getAll can see at [documentation Shikimori](https://shikimori.on
 ```php
 require 'vendor/autoload.php';
 
-
-
 $api = new \ShikimoriAPI\ShikimoriAPI();
 $api->setAccessToken('TOKEN');
 
