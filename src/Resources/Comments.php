@@ -61,15 +61,15 @@ class Comments
     /**
      * @param int $id
      * @param array $options
-     * @return bool
+     * @return array
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
      * @throws ShikimoriAPIValidationException
      */
-    public function update(int $id, array $options): bool
+    public function update(int $id, array $options): array
     {
-        return $this->api->sendRequestWithToken('PUT', '/comments/' . $id, $options)['status'] === 200;
+        return $this->api->sendRequestWithToken('PUT', '/comments/' . $id, $options)['body'];
     }
 
     /**

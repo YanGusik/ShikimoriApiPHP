@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6,
+    "user_id": 23456789,
+    "commentable_id": 23456794,
+    "commentable_type": "User",
+    "body": "comment_body_6",
+    "html_body": "comment_body_6",
+    "created_at": "2020-05-19T16:53:58.166+03:00",
+    "updated_at": "2020-05-19T16:53:58.166+03:00",
+    "is_offtopic": false,
+    "is_summary": false,
+    "can_be_edited": false,
+    "user": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    }
+  },
+  {
+    "id": 5,
+    "user_id": 23456789,
+    "commentable_id": 23456794,
+    "commentable_type": "User",
+    "body": "comment_body_5",
+    "html_body": "comment_body_5",
+    "created_at": "2020-05-19T16:53:58.166+03:00",
+    "updated_at": "2020-05-19T16:53:58.166+03:00",
+    "is_offtopic": false,
+    "is_summary": false,
+    "can_be_edited": false,
+    "user": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    }
+  }
+]
