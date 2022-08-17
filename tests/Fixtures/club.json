@@ -1,0 +1,103 @@
+{
+  "id": 1096,
+  "name": "club_7",
+  "logo": {
+    "original": "/assets/globals/missing_original_original.png",
+    "main": "/assets/globals/missing_main_main.png",
+    "x96": "/assets/globals/missing_x96_x96.png",
+    "x73": "/assets/globals/missing_x73_x73.png",
+    "x48": "/assets/globals/missing_x48_x48.png"
+  },
+  "is_censored": false,
+  "join_policy": "free",
+  "comment_policy": "free",
+  "description": null,
+  "description_html": "<p class='b-nothing_here'>Нет описания</p>",
+  "mangas": [
+    {
+      "id": 1,
+      "name": "manga_1",
+      "russian": "манга_1",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/mangas/1-manga-1",
+      "kind": "manga",
+      "score": "1.0",
+      "status": null,
+      "volumes": 0,
+      "chapters": 0,
+      "aired_on": null,
+      "released_on": null
+    }
+  ],
+  "characters": [
+    {
+      "id": 5,
+      "name": "character_3",
+      "russian": "персонаж_5",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/characters/5-character-3"
+    }
+  ],
+  "thread_id": 270110,
+  "topic_id": 270110,
+  "user_role": "member",
+  "style_id": null,
+  "members": [
+    {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    }
+  ],
+  "animes": [
+    {
+      "id": 25,
+      "name": "anime_22",
+      "russian": "аниме_25",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/25-anime-22",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "released",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": null,
+      "released_on": null
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "original_url": "/system/images/original/1.jpg?1589896437",
+      "main_url": "/system/images/original/1.jpg?1589896437",
+      "preview_url": "/system/images/preview/1.jpg?1589896437",
+      "can_destroy": false,
+      "user_id": 1001
+    }
+  ]
+}

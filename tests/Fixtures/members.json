@@ -1,0 +1,17 @@
+[
+  {
+    "id": 23456792,
+    "nickname": "user_3",
+    "avatar": "http:///assets/globals/missing_avatar/x48.png",
+    "image": {
+      "x160": "http:///assets/globals/missing_avatar/x160.png",
+      "x148": "http:///assets/globals/missing_avatar/x148.png",
+      "x80": "http:///assets/globals/missing_avatar/x80.png",
+      "x64": "http:///assets/globals/missing_avatar/x64.png",
+      "x48": "http:///assets/globals/missing_avatar/x48.png",
+      "x32": "http:///assets/globals/missing_avatar/x32.png",
+      "x16": "http:///assets/globals/missing_avatar/x16.png"
+    },
+    "last_online_at": "2020-05-19T16:53:57.994+03:00"
+  }
+]

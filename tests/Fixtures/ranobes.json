@@ -1,0 +1,21 @@
+[
+  {
+    "id": 18,
+    "name": "Test",
+    "russian": "ранобэ_2",
+    "image": {
+      "original": "/assets/globals/missing_original.jpg",
+      "preview": "/assets/globals/missing_preview.jpg",
+      "x96": "/assets/globals/missing_x96.jpg",
+      "x48": "/assets/globals/missing_x48.jpg"
+    },
+    "url": "/mangas/18-test",
+    "kind": "novel",
+    "score": "1.0",
+    "status": null,
+    "volumes": 0,
+    "chapters": 0,
+    "aired_on": "2014-01-01",
+    "released_on": null
+  }
+]
