@@ -3,7 +3,7 @@
 
 [![Packagist](https://img.shields.io/packagist/v/yangusik/shikimori-api-php.svg)](https://packagist.org/packages/yangusik/shikimori-api-php)
 ![build](https://github.com/YanGusik/ShikimoriApiPHP/workflows/build/badge.svg)
-[![Coverage Status](https://coveralls.io/repos/github/YanGusik/ShikimoriApiPHP/badge.svg?branch=master)](https://coveralls.io/github/YanGusik/ShikimoriApiPHP?branch=master) 
+[![Coverage Status](https://coveralls.io/repos/github/YanGusik/ShikimoriApiPHP/badge.svg?branch=master)](https://coveralls.io/github/YanGusik/ShikimoriApiPHP?branch=master)
 
 This is a PHP wrapper for [Shikimori Web API](https://shikimori.one/api/doc/1.0). It includes the following:
 
