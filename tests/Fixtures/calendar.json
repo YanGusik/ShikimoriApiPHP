@@ -1,0 +1,98 @@
+[
+  {
+    "next_episode": 1,
+    "next_episode_at": "2016-09-04T09:00:00.000+03:00",
+    "duration": null,
+    "anime": {
+      "id": 17,
+      "name": "anime_14",
+      "russian": "аниме_17",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/17-anime-14",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "ongoing",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": "2016-09-04",
+      "released_on": null
+    }
+  },
+  {
+    "next_episode": 1,
+    "next_episode_at": "2016-09-12T09:00:00.000+03:00",
+    "duration": null,
+    "anime": {
+      "id": 23,
+      "name": "anime_20",
+      "russian": "аниме_23",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/23-anime-20",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "anons",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": "2016-09-12",
+      "released_on": null
+    }
+  },
+  {
+    "next_episode": 1,
+    "next_episode_at": "2016-09-19T09:00:00.000+03:00",
+    "duration": null,
+    "anime": {
+      "id": 21,
+      "name": "anime_18",
+      "russian": "аниме_21",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/21-anime-18",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "anons",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": "2016-09-19",
+      "released_on": null
+    }
+  },
+  {
+    "next_episode": 1,
+    "next_episode_at": "2016-09-19T09:00:00.000+03:00",
+    "duration": null,
+    "anime": {
+      "id": 22,
+      "name": "anime_19",
+      "russian": "аниме_22",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/22-anime-19",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "anons",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": "2016-09-19",
+      "released_on": null
+    }
+  }
+]

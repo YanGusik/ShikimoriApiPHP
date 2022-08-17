@@ -10,7 +10,7 @@ class ShikimoriAPIAuthException extends ShikimoriAPIException
     public const INVALID_CLIENT_SECRET = 'Invalid client secret';
     public const INVALID_REFRESH_TOKEN = 'Invalid refresh token';
 
-    public function hasInvalidCredentials()
+    public function hasInvalidCredentials(): bool
     {
         return in_array($this->getMessage(), [
             self::INVALID_CLIENT,
@@ -18,7 +18,7 @@ class ShikimoriAPIAuthException extends ShikimoriAPIException
         ]);
     }
 
-    public function hasInvalidRefreshToken()
+    public function hasInvalidRefreshToken(): bool
     {
         return $this->getMessage() === self::INVALID_REFRESH_TOKEN;
     }

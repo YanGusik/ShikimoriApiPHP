@@ -1,4 +1,4 @@
-<?php
+<?php /** @noinspection ALL */
 
 namespace Tests\Resources;
 
@@ -9,7 +9,6 @@ class AchievementsTest extends ShikimoriAPITestBase
 {
     public function testAchievements()
     {
-        $header = ['Content-Type' => 'application/json'];
         $user_id = 1151494;
 
         $expected = [
@@ -27,8 +26,9 @@ class AchievementsTest extends ShikimoriAPITestBase
             'GET',
             '/achievements?user_id=1151494',
             [],
-            $header,
-            $return
+            $this->headersAuth,
+            $return,
+            $this->accessToken
         );
 
         $response = (new Achievements($api))->achievements($user_id);

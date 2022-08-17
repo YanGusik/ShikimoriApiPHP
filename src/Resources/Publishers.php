@@ -18,6 +18,13 @@ class Publishers
         $this->api = $api ?? new ShikimoriAPI();
     }
 
+    /**
+     * @return array
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws \ShikimoriAPI\ShikimoriAPIValidationException
+     */
     public function publishers(): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/publishers')['body'];

@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 namespace ShikimoriAPI;
 
-use Throwable;
+use Exception;
 
-class ShikimoriAPIException extends \Exception
+class ShikimoriAPIException extends Exception
 {
     public const TOKEN_EXPIRED = 'The access token is invalid';
     public const RATE_LIMIT_STATUS = 429;
@@ -24,12 +24,12 @@ class ShikimoriAPIException extends \Exception
         return $this->reason;
     }
 
-    public function hasExpiredToken()
+    public function hasExpiredToken(): bool
     {
         return $this->getMessage() === self::TOKEN_EXPIRED;
     }
 
-    public function isRateLimited()
+    public function isRateLimited(): bool
     {
         return $this->getCode() === self::RATE_LIMIT_STATUS;
     }

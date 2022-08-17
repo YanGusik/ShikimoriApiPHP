@@ -1,0 +1,3137 @@
+[
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 17047,
+      "name": "Tatsuya Yoshihara",
+      "russian": "Тацуя Ёсихара",
+      "image": {
+        "original": "/system/people/original/17047.jpg?1644526066",
+        "preview": "/system/people/preview/17047.jpg?1644526066",
+        "x96": "/system/people/x96/17047.jpg?1644526066",
+        "x48": "/system/people/x48/17047.jpg?1644526066"
+      },
+      "url": "/people/17047-tatsuya-yoshihara"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39320,
+      "name": "Minami Yoshida",
+      "russian": "Минами Ёсида",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39320-minami-yoshida"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 41280,
+      "name": "Kenta Yokoya",
+      "russian": "Кэнта Ёкоя",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/41280-kenta-yokoya"
+    }
+  },
+  {
+    "roles": [
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 43103,
+      "name": "Yuukei Yamada",
+      "russian": "Юри Ямада",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/43103-yuukei-yamada"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 51414,
+      "name": "Yuuki Watanabe",
+      "russian": "Юки Ватанабэ",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/51414-yuuki-watanabe"
+    }
+  },
+  {
+    "roles": [
+      "Sound Effects"
+    ],
+    "roles_russian": [
+      "Звуковые эффекты"
+    ],
+    "character": null,
+    "person": {
+      "id": 39241,
+      "name": "Toshiya Wada",
+      "russian": "Тосия Вада",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39241-toshiya-wada"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 56583,
+      "name": "Itsuki Tsuchigami",
+      "russian": "Ицуки Цутигами",
+      "image": {
+        "original": "/system/people/original/56583.jpg?1658544368",
+        "preview": "/system/people/preview/56583.jpg?1658544368",
+        "x96": "/system/people/x96/56583.jpg?1658544368",
+        "x48": "/system/people/x48/56583.jpg?1658544368"
+      },
+      "url": "/people/56583-itsuki-tsuchigami"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 41658,
+      "name": "Mai Toda",
+      "russian": "Май Тода",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/41658-mai-toda"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 10262,
+      "name": "Takanori Suzuki",
+      "russian": "Таканори Судзуки",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/10262-takanori-suzuki"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 8619,
+      "name": "Sushio",
+      "russian": "",
+      "image": {
+        "original": "/system/people/original/8619.jpg?1643834564",
+        "preview": "/system/people/preview/8619.jpg?1643834564",
+        "x96": "/system/people/x96/8619.jpg?1643834564",
+        "x48": "/system/people/x48/8619.jpg?1643834564"
+      },
+      "url": "/people/8619-sushio"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39279,
+      "name": "Atsuki Shimizu",
+      "russian": "Ацуки Симидзу",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39279-atsuki-shimizu"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "Animation Director"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Режиссёр анимации"
+    ],
+    "character": null,
+    "person": {
+      "id": 43494,
+      "name": "Hidehiko Sawada",
+      "russian": "Хидэхико Савада",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/43494-hidehiko-sawada"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 12357,
+      "name": "Toshiyuki Satou",
+      "russian": "Тосиюки Сато",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/12357-toshiyuki-satou"
+    }
+  },
+  {
+    "roles": [
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 55319,
+      "name": "Hiroaki Satou",
+      "russian": "Хироаки Сато",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/55319-hiroaki-satou"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 7594,
+      "name": "Takayuki Sano",
+      "russian": "Такаюки Сано",
+      "image": {
+        "original": "/system/people/original/7594.jpg?1644875633",
+        "preview": "/system/people/preview/7594.jpg?1644875633",
+        "x96": "/system/people/x96/7594.jpg?1644875633",
+        "x48": "/system/people/x48/7594.jpg?1644875633"
+      },
+      "url": "/people/7594-takayuki-sano"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 56584,
+      "name": "Takahito Sakazume",
+      "russian": "Такахито Сакадзумэ",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/56584-takahito-sakazume"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 40121,
+      "name": "Toshi Sada",
+      "russian": "Тоси Сада",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/40121-toshi-sada"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 33185,
+      "name": "Takaharu Ozaki",
+      "russian": "Такахару Одзаки",
+      "image": {
+        "original": "/system/people/original/33185.jpg?1656785709",
+        "preview": "/system/people/preview/33185.jpg?1656785709",
+        "x96": "/system/people/x96/33185.jpg?1656785709",
+        "x48": "/system/people/x48/33185.jpg?1656785709"
+      },
+      "url": "/people/33185-takaharu-ozaki"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 51413,
+      "name": "Tamotsu Ogawa",
+      "russian": "Тамоцу Огава",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/51413-tamotsu-ogawa"
+    }
+  },
+  {
+    "roles": [
+      "Animation Director",
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Режиссёр анимации",
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 55644,
+      "name": "Gosei Oda",
+      "russian": "Госэй Ода",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/55644-gosei-oda"
+    }
+  },
+  {
+    "roles": [
+      "Original Creator"
+    ],
+    "roles_russian": [
+      "Автор оригинала"
+    ],
+    "character": null,
+    "person": {
+      "id": 16993,
+      "name": "ONE",
+      "russian": "",
+      "image": {
+        "original": "/system/people/original/16993.jpg?1644439588",
+        "preview": "/system/people/preview/16993.jpg?1644439588",
+        "x96": "/system/people/x96/16993.jpg?1644439588",
+        "x48": "/system/people/x48/16993.jpg?1644439588"
+      },
+      "url": "/people/16993-one"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "Animation Director"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Режиссёр анимации"
+    ],
+    "character": null,
+    "person": {
+      "id": 41926,
+      "name": "Norifumi Kugai",
+      "russian": "Норифуми Кугай",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/41926-norifumi-kugai"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 29525,
+      "name": "Ryuu Nakayama",
+      "russian": "Рю Накаяма",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/29525-ryuu-nakayama"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 7937,
+      "name": "Katsuyoshi Nakatsuru",
+      "russian": "Кацуёси Накацуру",
+      "image": {
+        "original": "/system/people/original/7937.jpg?1643834335",
+        "preview": "/system/people/preview/7937.jpg?1643834335",
+        "x96": "/system/people/x96/7937.jpg?1643834335",
+        "x48": "/system/people/x48/7937.jpg?1643834335"
+      },
+      "url": "/people/7937-katsuyoshi-nakatsuru"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 49223,
+      "name": "Mayumi Nakamura",
+      "russian": "Маюми Накамура",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/49223-mayumi-nakamura"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 6801,
+      "name": "Yutaka Nakamura",
+      "russian": "Ютака Накамура",
+      "image": {
+        "original": "/system/people/original/6801.jpg?1644874821",
+        "preview": "/system/people/preview/6801.jpg?1644874821",
+        "x96": "/system/people/x96/6801.jpg?1644874821",
+        "x48": "/system/people/x48/6801.jpg?1644874821"
+      },
+      "url": "/people/6801-yutaka-nakamura"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39346,
+      "name": "Keita Nagasaka",
+      "russian": "Кэйта Нагасака",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39346-keita-nagasaka"
+    }
+  },
+  {
+    "roles": [
+      "Original Character Design"
+    ],
+    "roles_russian": [
+      "Оригинал. дизайн персонажей"
+    ],
+    "character": null,
+    "person": {
+      "id": 1903,
+      "name": "Yusuke Murata",
+      "russian": "Юсукэ Мурата",
+      "image": {
+        "original": "/system/people/original/1903.jpg?1644871663",
+        "preview": "/system/people/preview/1903.jpg?1644871663",
+        "x96": "/system/people/x96/1903.jpg?1644871663",
+        "x48": "/system/people/x48/1903.jpg?1644871663"
+      },
+      "url": "/people/1903-yusuke-murata"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 41031,
+      "name": "Tatsuya Miki",
+      "russian": "Тацуя Мики",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/41031-tatsuya-miki"
+    }
+  },
+  {
+    "roles": [
+      "ADR Director"
+    ],
+    "roles_russian": [
+      "Режиссёр перевода"
+    ],
+    "character": null,
+    "person": {
+      "id": 6714,
+      "name": "Fabrizio Mazzotta",
+      "russian": "Фабрицио Маззотта",
+      "image": {
+        "original": "/system/people/original/6714.jpg?1634772529",
+        "preview": "/system/people/preview/6714.jpg?1634772529",
+        "x96": "/system/people/x96/6714.jpg?1634772529",
+        "x48": "/system/people/x48/6714.jpg?1634772529"
+      },
+      "url": "/people/6714-fabrizio-mazzotta"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39322,
+      "name": "Hiromi Masuda",
+      "russian": "Хироми Масуда",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39322-hiromi-masuda"
+    }
+  },
+  {
+    "roles": [
+      "Art Director"
+    ],
+    "roles_russian": [
+      "Арт-директор"
+    ],
+    "character": null,
+    "person": {
+      "id": 33743,
+      "name": "Yukiko Maruyama",
+      "russian": "Юкико Маруяма",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/33743-yukiko-maruyama"
+    }
+  },
+  {
+    "roles": [
+      "ADR Director"
+    ],
+    "roles_russian": [
+      "Режиссёр перевода"
+    ],
+    "character": null,
+    "person": {
+      "id": 21197,
+      "name": "Diego Lima",
+      "russian": "Диего Лима",
+      "image": {
+        "original": "/system/people/original/21197.jpg?1654333513",
+        "preview": "/system/people/preview/21197.jpg?1654333513",
+        "x96": "/system/people/x96/21197.jpg?1654333513",
+        "x48": "/system/people/x48/21197.jpg?1654333513"
+      },
+      "url": "/people/21197-diego-lima"
+    }
+  },
+  {
+    "roles": [
+      "Chief Animation Director",
+      "Character Design"
+    ],
+    "roles_russian": [
+      "Главный аниматор",
+      "Дизайн персонажей"
+    ],
+    "character": null,
+    "person": {
+      "id": 10913,
+      "name": "Chikashi Kubota",
+      "russian": "Тикаси Кубота",
+      "image": {
+        "original": "/system/people/original/10913.jpg?1634687136",
+        "preview": "/system/people/preview/10913.jpg?1634687136",
+        "x96": "/system/people/x96/10913.jpg?1634687136",
+        "x48": "/system/people/x48/10913.jpg?1634687136"
+      },
+      "url": "/people/10913-chikashi-kubota"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 31735,
+      "name": "Fumiaki Kouta",
+      "russian": "Фумиаки Кота",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/31735-fumiaki-kouta"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "Animation Director",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Режиссёр анимации",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 55639,
+      "name": "Keisuke Kojima",
+      "russian": "Кэйсукэ Кодзима",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/55639-keisuke-kojima"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 40127,
+      "name": "Naoki Kobayashi",
+      "russian": "Наоки Кобаяси",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/40127-naoki-kobayashi"
+    }
+  },
+  {
+    "roles": [
+      "Editing"
+    ],
+    "roles_russian": [
+      "Монтаж"
+    ],
+    "character": null,
+    "person": {
+      "id": 37606,
+      "name": "Kashiko Kimura",
+      "russian": "Касико Кимура",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/37606-kashiko-kimura"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 28581,
+      "name": "Se-jun Kim",
+      "russian": "Се Чжун Ким",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/28581-se-jun-kim"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39321,
+      "name": "Fumi Katou",
+      "russian": "Фуми Като",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39321-fumi-katou"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 28829,
+      "name": "Yoshinori Kanemori",
+      "russian": "Ёсинори Канэмори",
+      "image": {
+        "original": "/system/people/original/28829.jpg?1634690880",
+        "preview": "/system/people/preview/28829.jpg?1634690880",
+        "x96": "/system/people/x96/28829.jpg?1634690880",
+        "x48": "/system/people/x48/28829.jpg?1634690880"
+      },
+      "url": "/people/28829-yoshinori-kanemori"
+    }
+  },
+  {
+    "roles": [
+      "Animation Director",
+      "Character Design",
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Режиссёр анимации",
+      "Дизайн персонажей",
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 10635,
+      "name": "Yoshimichi Kameda",
+      "russian": "Ёсимити Камэда",
+      "image": {
+        "original": "/system/people/original/10635.jpg?1643834582",
+        "preview": "/system/people/preview/10635.jpg?1643834582",
+        "x96": "/system/people/x96/10635.jpg?1643834582",
+        "x48": "/system/people/x48/10635.jpg?1643834582"
+      },
+      "url": "/people/10635-yoshimichi-kameda"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 6889,
+      "name": "Satoshi Iwataki",
+      "russian": "Сатоси Иватаки",
+      "image": {
+        "original": "/system/people/original/6889.jpg?1660150366",
+        "preview": "/system/people/preview/6889.jpg?1660150366",
+        "x96": "/system/people/x96/6889.jpg?1660150366",
+        "x48": "/system/people/x48/6889.jpg?1660150366"
+      },
+      "url": "/people/6889-satoshi-iwataki"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 36709,
+      "name": "Arifumi Imai",
+      "russian": "Арифуми Имаи",
+      "image": {
+        "original": "/system/people/original/36709.jpg?1643698863",
+        "preview": "/system/people/preview/36709.jpg?1643698863",
+        "x96": "/system/people/x96/36709.jpg?1643698863",
+        "x48": "/system/people/x48/36709.jpg?1643698863"
+      },
+      "url": "/people/36709-arifumi-imai"
+    }
+  },
+  {
+    "roles": [
+      "Art Director"
+    ],
+    "roles_russian": [
+      "Арт-директор"
+    ],
+    "character": null,
+    "person": {
+      "id": 15647,
+      "name": "Shigemi Ikeda",
+      "russian": "Сигэми Икэда",
+      "image": {
+        "original": "/system/people/original/15647.jpg?1644879818",
+        "preview": "/system/people/preview/15647.jpg?1644879818",
+        "x96": "/system/people/x96/15647.jpg?1644879818",
+        "x48": "/system/people/x48/15647.jpg?1644879818"
+      },
+      "url": "/people/15647-shigemi-ikeda"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 48868,
+      "name": "Kai Ikarashi",
+      "russian": "Кай Икараси",
+      "image": {
+        "original": "/system/people/original/48868.jpg?1644896229",
+        "preview": "/system/people/preview/48868.jpg?1644896229",
+        "x96": "/system/people/x96/48868.jpg?1644896229",
+        "x48": "/system/people/x48/48868.jpg?1644896229"
+      },
+      "url": "/people/48868-kai-ikarashi"
+    }
+  },
+  {
+    "roles": [
+      "In-Between Animation"
+    ],
+    "roles_russian": [
+      "Промежуточ. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 54815,
+      "name": "Yuuki Igarashi",
+      "russian": "Юки Игараси",
+      "image": {
+        "original": "/system/people/original/54815.jpg?1646706406",
+        "preview": "/system/people/preview/54815.jpg?1646706406",
+        "x96": "/system/people/x96/54815.jpg?1646706406",
+        "x48": "/system/people/x48/54815.jpg?1646706406"
+      },
+      "url": "/people/54815-yuuki-igarashi"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation",
+      "2nd Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация",
+      "Второстепен. анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 10543,
+      "name": "Akitsugu Hisagi",
+      "russian": "Акицугу Хисаги",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/10543-akitsugu-hisagi"
+    }
+  },
+  {
+    "roles": [
+      "Color Design"
+    ],
+    "roles_russian": [
+      "Дизайн цвета"
+    ],
+    "character": null,
+    "person": {
+      "id": 38652,
+      "name": "Satoshi Hashimoto",
+      "russian": "Сатоси Хасимото",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/38652-satoshi-hashimoto"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 50403,
+      "name": "Saki Hasegawa",
+      "russian": "Саки Хасэгава",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/50403-saki-hasegawa"
+    }
+  },
+  {
+    "roles": [
+      "Assistant Animation Director",
+      "Key Animation",
+      "Character Design"
+    ],
+    "roles_russian": [
+      "Помощник режиссёра анимации",
+      "Ключевая анимация",
+      "Дизайн персонажей"
+    ],
+    "character": null,
+    "person": {
+      "id": 40433,
+      "name": "Shuuhei Handa",
+      "russian": "Сюхэй Ханда",
+      "image": {
+        "original": "/system/people/original/40433.jpg?1643703474",
+        "preview": "/system/people/preview/40433.jpg?1643703474",
+        "x96": "/system/people/x96/40433.jpg?1643703474",
+        "x48": "/system/people/x48/40433.jpg?1643703474"
+      },
+      "url": "/people/40433-shuuhei-handa"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 48449,
+      "name": "Ryousuke Habu",
+      "russian": "Рёсукэ Хабу",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/48449-ryousuke-habu"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 59892,
+      "name": "Hakuyu Go",
+      "russian": "",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/59892-hakuyu-go"
+    }
+  },
+  {
+    "roles": [
+      "Director of Photography"
+    ],
+    "roles_russian": [
+      "Оператор-постановщик"
+    ],
+    "character": null,
+    "person": {
+      "id": 38956,
+      "name": "Akane Fushihara",
+      "russian": "Аканэ Фусихара",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/38956-akane-fushihara"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 39347,
+      "name": "Kenichi Fujisawa",
+      "russian": "Кэнъити Фудзисава",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/39347-kenichi-fujisawa"
+    }
+  },
+  {
+    "roles": [
+      "ADR Director"
+    ],
+    "roles_russian": [
+      "Режиссёр перевода"
+    ],
+    "character": null,
+    "person": {
+      "id": 1138,
+      "name": "Chris Cason",
+      "russian": "Крис Кейсон",
+      "image": {
+        "original": "/system/people/original/1138.jpg?1643834027",
+        "preview": "/system/people/preview/1138.jpg?1643834027",
+        "x96": "/system/people/x96/1138.jpg?1643834027",
+        "x48": "/system/people/x48/1138.jpg?1643834027"
+      },
+      "url": "/people/1138-chris-cason"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 28429,
+      "name": "Bahi JD",
+      "russian": "",
+      "image": {
+        "original": "/system/people/original/28429.jpg?1643835172",
+        "preview": "/system/people/preview/28429.jpg?1643835172",
+        "x96": "/system/people/x96/28429.jpg?1643835172",
+        "x48": "/system/people/x48/28429.jpg?1643835172"
+      },
+      "url": "/people/28429-bahi-jd"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 40122,
+      "name": "Hiroyuki Aoyama",
+      "russian": "Хироюки Аояма",
+      "image": {
+        "original": "/system/people/original/40122.jpg?1644889462",
+        "preview": "/system/people/preview/40122.jpg?1644889462",
+        "x96": "/system/people/x96/40122.jpg?1644889462",
+        "x48": "/system/people/x48/40122.jpg?1644889462"
+      },
+      "url": "/people/40122-hiroyuki-aoyama"
+    }
+  },
+  {
+    "roles": [
+      "ADR Director"
+    ],
+    "roles_russian": [
+      "Режиссёр перевода"
+    ],
+    "character": null,
+    "person": {
+      "id": 45709,
+      "name": "Mélanie Anne Paillié",
+      "russian": "Мелани Энн",
+      "image": {
+        "original": "/system/people/original/45709.jpg?1645997336",
+        "preview": "/system/people/preview/45709.jpg?1645997336",
+        "x96": "/system/people/x96/45709.jpg?1645997336",
+        "x48": "/system/people/x48/45709.jpg?1645997336"
+      },
+      "url": "/people/45709-m-lanie-anne-pailli"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 5956,
+      "name": "Akira Amemiya",
+      "russian": "Акира Амэмия",
+      "image": {
+        "original": "/system/people/original/5956.jpg?1644874077",
+        "preview": "/system/people/preview/5956.jpg?1644874077",
+        "x96": "/system/people/x96/5956.jpg?1644874077",
+        "x48": "/system/people/x48/5956.jpg?1644874077"
+      },
+      "url": "/people/5956-akira-amemiya"
+    }
+  },
+  {
+    "roles": [
+      "Key Animation"
+    ],
+    "roles_russian": [
+      "Ключевая анимация"
+    ],
+    "character": null,
+    "person": {
+      "id": 31171,
+      "name": "Shingo Abe",
+      "russian": "Синго Абэ",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/31171-shingo-abe"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Performance"
+    ],
+    "roles_russian": [
+      "Исполнение гл. муз. темы"
+    ],
+    "character": null,
+    "person": {
+      "id": 9505,
+      "name": "Hiroko Moriguchi",
+      "russian": "Хироко Моригути",
+      "image": {
+        "original": "/system/people/original/9505.jpg?1634686492",
+        "preview": "/system/people/preview/9505.jpg?1634686492",
+        "x96": "/system/people/x96/9505.jpg?1634686492",
+        "x48": "/system/people/x48/9505.jpg?1634686492"
+      },
+      "url": "/people/9505-hiroko-moriguchi"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Arrangement",
+      "Music"
+    ],
+    "roles_russian": [
+      "Аранжировка гл. муз. темы",
+      "Музыка"
+    ],
+    "character": null,
+    "person": {
+      "id": 14497,
+      "name": "Makoto Miyazaki",
+      "russian": "Макото Миядзаки",
+      "image": {
+        "original": "/system/people/original/14497.jpg?1634775539",
+        "preview": "/system/people/preview/14497.jpg?1634775539",
+        "x96": "/system/people/x96/14497.jpg?1634775539",
+        "x48": "/system/people/x48/14497.jpg?1634775539"
+      },
+      "url": "/people/14497-makoto-miyazaki"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Performance"
+    ],
+    "roles_russian": [
+      "Исполнение гл. муз. темы"
+    ],
+    "character": null,
+    "person": {
+      "id": 7041,
+      "name": "JAM Project",
+      "russian": "",
+      "image": {
+        "original": "/system/people/original/7041.jpg?1634684105",
+        "preview": "/system/people/preview/7041.jpg?1634684105",
+        "x96": "/system/people/x96/7041.jpg?1634684105",
+        "x48": "/system/people/x48/7041.jpg?1634684105"
+      },
+      "url": "/people/7041-jam-project"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Composition"
+    ],
+    "roles_russian": [
+      "Композитор гл. муз. темы"
+    ],
+    "character": null,
+    "person": {
+      "id": 9518,
+      "name": "Masaaki Iizuka",
+      "russian": "Масааки Иидзука",
+      "image": {
+        "original": "/system/people/original/9518.jpg?1634686443",
+        "preview": "/system/people/preview/9518.jpg?1634686443",
+        "x96": "/system/people/x96/9518.jpg?1634686443",
+        "x48": "/system/people/x48/9518.jpg?1634686443"
+      },
+      "url": "/people/9518-masaaki-iizuka"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Arrangement",
+      "Theme Song Composition"
+    ],
+    "roles_russian": [
+      "Аранжировка гл. муз. темы",
+      "Композитор гл. муз. темы"
+    ],
+    "character": null,
+    "person": {
+      "id": 10862,
+      "name": "Hyadain",
+      "russian": "Кэнъити Маэямада",
+      "image": {
+        "original": "/system/people/original/10862.jpg?1643834581",
+        "preview": "/system/people/preview/10862.jpg?1643834581",
+        "x96": "/system/people/x96/10862.jpg?1643834581",
+        "x48": "/system/people/x48/10862.jpg?1643834581"
+      },
+      "url": "/people/10862-hyadain"
+    }
+  },
+  {
+    "roles": [
+      "Theme Song Lyrics"
+    ],
+    "roles_russian": [
+      "Лирика гл. муз. темы"
+    ],
+    "character": null,
+    "person": {
+      "id": 11018,
+      "name": "Aki Hata",
+      "russian": "Аки Хата",
+      "image": {
+        "original": "/system/people/original/11018.jpg?1644877649",
+        "preview": "/system/people/preview/11018.jpg?1644877649",
+        "x96": "/system/people/x96/11018.jpg?1644877649",
+        "x48": "/system/people/x48/11018.jpg?1644877649"
+      },
+      "url": "/people/11018-aki-hata"
+    }
+  },
+  {
+    "roles": [
+      "Storyboard"
+    ],
+    "roles_russian": [
+      "Раскадровка"
+    ],
+    "character": null,
+    "person": {
+      "id": 49321,
+      "name": "Katsunori Shibata",
+      "russian": "Кацунори Сибата",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/49321-katsunori-shibata"
+    }
+  },
+  {
+    "roles": [
+      "Storyboard"
+    ],
+    "roles_russian": [
+      "Раскадровка"
+    ],
+    "character": null,
+    "person": {
+      "id": 5812,
+      "name": "Yoshiaki Kawajiri",
+      "russian": "Ёсиаки Кавадзири",
+      "image": {
+        "original": "/system/people/original/5812.jpg?1644874593",
+        "preview": "/system/people/preview/5812.jpg?1644874593",
+        "x96": "/system/people/x96/5812.jpg?1644874593",
+        "x48": "/system/people/x48/5812.jpg?1644874593"
+      },
+      "url": "/people/5812-yoshiaki-kawajiri"
+    }
+  },
+  {
+    "roles": [
+      "Script",
+      "Series Composition"
+    ],
+    "roles_russian": [
+      "Сценарий",
+      "Компоновка серий"
+    ],
+    "character": null,
+    "person": {
+      "id": 38936,
+      "name": "Tomohiro Suzuki",
+      "russian": "Томохиро Судзуки",
+      "image": {
+        "original": "/system/people/original/38936.jpg?1644888022",
+        "preview": "/system/people/preview/38936.jpg?1644888022",
+        "x96": "/system/people/x96/38936.jpg?1644888022",
+        "x48": "/system/people/x48/38936.jpg?1644888022"
+      },
+      "url": "/people/38936-tomohiro-suzuki"
+    }
+  },
+  {
+    "roles": [
+      "Episode Director",
+      "Storyboard"
+    ],
+    "roles_russian": [
+      "Режиссёр эпизодов",
+      "Раскадровка"
+    ],
+    "character": null,
+    "person": {
+      "id": 48175,
+      "name": "Toshikazu Yoshizawa",
+      "russian": "Тосикадзу Ёсидзава",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/48175-toshikazu-yoshizawa"
+    }
+  },
+  {
+    "roles": [
+      "Episode Director",
+      "Storyboard",
+      "Assistant Director"
+    ],
+    "roles_russian": [
+      "Режиссёр эпизодов",
+      "Раскадровка",
+      "Помощник режиссёра"
+    ],
+    "character": null,
+    "person": {
+      "id": 39348,
+      "name": "Shinichirou Ushijima",
+      "russian": "Синъитиро Усидзима",
+      "image": {
+        "original": "/system/people/original/39348.jpg?1645478408",
+        "preview": "/system/people/preview/39348.jpg?1645478408",
+        "x96": "/system/people/x96/39348.jpg?1645478408",
+        "x48": "/system/people/x48/39348.jpg?1645478408"
+      },
+      "url": "/people/39348-shinichirou-ushijima"
+    }
+  },
+  {
+    "roles": [
+      "Episode Director",
+      "Storyboard"
+    ],
+    "roles_russian": [
+      "Режиссёр эпизодов",
+      "Раскадровка"
+    ],
+    "character": null,
+    "person": {
+      "id": 47545,
+      "name": "Yousuke Hatta",
+      "russian": "Ёсукэ Хатта",
+      "image": {
+        "original": "/system/people/original/47545.jpg?1656253070",
+        "preview": "/system/people/preview/47545.jpg?1656253070",
+        "x96": "/system/people/x96/47545.jpg?1656253070",
+        "x48": "/system/people/x48/47545.jpg?1656253070"
+      },
+      "url": "/people/47545-yousuke-hatta"
+    }
+  },
+  {
+    "roles": [
+      "Sound Director"
+    ],
+    "roles_russian": [
+      "Звукорежиссёр"
+    ],
+    "character": null,
+    "person": {
+      "id": 30689,
+      "name": "Shouji Hata",
+      "russian": "Сёдзи Хата",
+      "image": {
+        "original": "/system/people/original/30689.jpg?1643835254",
+        "preview": "/system/people/preview/30689.jpg?1643835254",
+        "x96": "/system/people/x96/30689.jpg?1643835254",
+        "x48": "/system/people/x48/30689.jpg?1643835254"
+      },
+      "url": "/people/30689-shouji-hata"
+    }
+  },
+  {
+    "roles": [
+      "Director",
+      "Storyboard"
+    ],
+    "roles_russian": [
+      "Режиссёр",
+      "Раскадровка"
+    ],
+    "character": null,
+    "person": {
+      "id": 28579,
+      "name": "Shingo Natsume",
+      "russian": "Синго Нацумэ",
+      "image": {
+        "original": "/system/people/original/28579.jpg?1644269941",
+        "preview": "/system/people/preview/28579.jpg?1644269941",
+        "x96": "/system/people/x96/28579.jpg?1644269941",
+        "x48": "/system/people/x48/28579.jpg?1644269941"
+      },
+      "url": "/people/28579-shingo-natsume"
+    }
+  },
+  {
+    "roles": [
+      "Producer"
+    ],
+    "roles_russian": [
+      "Продюсер"
+    ],
+    "character": null,
+    "person": {
+      "id": 46598,
+      "name": "Nobuyuki Hosoya",
+      "russian": "Нобуюки Хосоя",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/46598-nobuyuki-hosoya"
+    }
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127454,
+      "name": "Zombieman",
+      "russian": "Зомбимен",
+      "image": {
+        "original": "/system/characters/original/127454.jpg?1644901913",
+        "preview": "/system/characters/preview/127454.jpg?1644901913",
+        "x96": "/system/characters/x96/127454.jpg?1644901913",
+        "x48": "/system/characters/x48/127454.jpg?1644901913"
+      },
+      "url": "/characters/127454-zombieman"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134796,
+      "name": "Zeniru",
+      "russian": "Зениру",
+      "image": {
+        "original": "/system/characters/original/134796.jpg?1635988313",
+        "preview": "/system/characters/preview/134796.jpg?1635988313",
+        "x96": "/system/characters/x96/134796.jpg?1635988313",
+        "x48": "/system/characters/x48/134796.jpg?1635988313"
+      },
+      "url": "/characters/134796-zeniru"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 168556,
+      "name": "Z Branch Operator",
+      "russian": "Оператор филиала Z",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/characters/168556-z-branch-operator"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86027,
+      "name": "Watchdog-man",
+      "russian": "Сторожевой Пёс",
+      "image": {
+        "original": "/system/characters/original/86027.jpg?1635687551",
+        "preview": "/system/characters/preview/86027.jpg?1635687551",
+        "x96": "/system/characters/x96/86027.jpg?1635687551",
+        "x48": "/system/characters/x48/86027.jpg?1635687551"
+      },
+      "url": "/characters/86027-watchdog-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134103,
+      "name": "Vaccine Man",
+      "russian": "Человек-вакцина",
+      "image": {
+        "original": "/system/characters/original/134103.jpg?1635987757",
+        "preview": "/system/characters/preview/134103.jpg?1635987757",
+        "x96": "/system/characters/x96/134103.jpg?1635987757",
+        "x48": "/system/characters/x48/134103.jpg?1635987757"
+      },
+      "url": "/characters/134103-vaccine-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81929,
+      "name": "Tatsumaki",
+      "russian": "Торнадо",
+      "image": {
+        "original": "/system/characters/original/81929.jpg?1635462042",
+        "preview": "/system/characters/preview/81929.jpg?1635462042",
+        "x96": "/system/characters/x96/81929.jpg?1635462042",
+        "x48": "/system/characters/x48/81929.jpg?1635462042"
+      },
+      "url": "/characters/81929-tatsumaki"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81939,
+      "name": "Tanktop Tiger",
+      "russian": "Тигр в Майке",
+      "image": {
+        "original": "/system/characters/original/81939.jpg?1635462079",
+        "preview": "/system/characters/preview/81939.jpg?1635462079",
+        "x96": "/system/characters/x96/81939.jpg?1635462079",
+        "x48": "/system/characters/x48/81939.jpg?1635462079"
+      },
+      "url": "/characters/81939-tanktop-tiger"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127450,
+      "name": "Tanktop Master",
+      "russian": "Мастер в Майке",
+      "image": {
+        "original": "/system/characters/original/127450.jpg?1635985688",
+        "preview": "/system/characters/preview/127450.jpg?1635985688",
+        "x96": "/system/characters/x96/127450.jpg?1635985688",
+        "x48": "/system/characters/x48/127450.jpg?1635985688"
+      },
+      "url": "/characters/127450-tanktop-master"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81941,
+      "name": "Tanktop Black Hole",
+      "russian": "Чёрная Дыра в Майке",
+      "image": {
+        "original": "/system/characters/original/81941.jpg?1635462072",
+        "preview": "/system/characters/preview/81941.jpg?1635462072",
+        "x96": "/system/characters/x96/81941.jpg?1635462072",
+        "x48": "/system/characters/x48/81941.jpg?1635462072"
+      },
+      "url": "/characters/81941-tanktop-black-hole"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86031,
+      "name": "Sweet Mask",
+      "russian": "Милая Маска",
+      "image": {
+        "original": "/system/characters/original/86031.jpg?1635687675",
+        "preview": "/system/characters/preview/86031.jpg?1635687675",
+        "x96": "/system/characters/x96/86031.jpg?1635687675",
+        "x48": "/system/characters/x48/86031.jpg?1635687675"
+      },
+      "url": "/characters/86031-sweet-mask"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127447,
+      "name": "Superalloy Darkshine",
+      "russian": "Блестящий Суперсплав",
+      "image": {
+        "original": "/system/characters/original/127447.jpg?1635985578",
+        "preview": "/system/characters/preview/127447.jpg?1635985578",
+        "x96": "/system/characters/x96/127447.jpg?1635985578",
+        "x48": "/system/characters/x48/127447.jpg?1635985578"
+      },
+      "url": "/characters/127447-superalloy-darkshine"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134198,
+      "name": "Super Custom YO649Z Mk. II",
+      "russian": "Супертюнинг YO649Z Mk. II",
+      "image": {
+        "original": "/system/characters/original/134198.jpg?1635987777",
+        "preview": "/system/characters/preview/134198.jpg?1635987777",
+        "x96": "/system/characters/x96/134198.jpg?1635987777",
+        "x48": "/system/characters/x48/134198.jpg?1635987777"
+      },
+      "url": "/characters/134198-super-custom-yo649z-mk-ii"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134200,
+      "name": "Subterraneans",
+      "russian": "Подземные жители",
+      "image": {
+        "original": "/system/characters/original/134200.jpg?1635987793",
+        "preview": "/system/characters/preview/134200.jpg?1635987793",
+        "x96": "/system/characters/x96/134200.jpg?1635987793",
+        "x48": "/system/characters/x48/134200.jpg?1635987793"
+      },
+      "url": "/characters/134200-subterraneans"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134199,
+      "name": "Subterranean King",
+      "russian": "Подземный Король",
+      "image": {
+        "original": "/system/characters/original/134199.jpg?1635987794",
+        "preview": "/system/characters/preview/134199.jpg?1635987794",
+        "x96": "/system/characters/x96/134199.jpg?1635987794",
+        "x48": "/system/characters/x48/134199.jpg?1635987794"
+      },
+      "url": "/characters/134199-subterranean-king"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86033,
+      "name": "Stinger",
+      "russian": "Жало",
+      "image": {
+        "original": "/system/characters/original/86033.jpg?1635687552",
+        "preview": "/system/characters/preview/86033.jpg?1635687552",
+        "x96": "/system/characters/x96/86033.jpg?1635687552",
+        "x48": "/system/characters/x48/86033.jpg?1635687552"
+      },
+      "url": "/characters/86033-stinger"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86039,
+      "name": "Spring Mustache",
+      "russian": "Упругие Усы",
+      "image": {
+        "original": "/system/characters/original/86039.jpg?1635687577",
+        "preview": "/system/characters/preview/86039.jpg?1635687577",
+        "x96": "/system/characters/x96/86039.jpg?1635687577",
+        "x48": "/system/characters/x48/86039.jpg?1635687577"
+      },
+      "url": "/characters/86039-spring-mustache"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134197,
+      "name": "Split-Chinned Kid",
+      "russian": "Ребёнок с раздвоенным подбородком",
+      "image": {
+        "original": "/system/characters/original/134197.jpg?1635987752",
+        "preview": "/system/characters/preview/134197.jpg?1635987752",
+        "x96": "/system/characters/x96/134197.jpg?1635987752",
+        "x48": "/system/characters/x48/134197.jpg?1635987752"
+      },
+      "url": "/characters/134197-split-chinned-kid"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 74167,
+      "name": "Speed-o'-Sound Sonic",
+      "russian": "Сверхзвуковой Соник",
+      "image": {
+        "original": "/system/characters/original/74167.jpg?1644894470",
+        "preview": "/system/characters/preview/74167.jpg?1644894470",
+        "x96": "/system/characters/x96/74167.jpg?1644894470",
+        "x48": "/system/characters/x48/74167.jpg?1644894470"
+      },
+      "url": "/characters/74167-speed-o-sound-sonic"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 75460,
+      "name": "Snek",
+      "russian": "Снек",
+      "image": {
+        "original": "/system/characters/original/75460.jpg?1635115581",
+        "preview": "/system/characters/preview/75460.jpg?1635115581",
+        "x96": "/system/characters/x96/75460.jpg?1635115581",
+        "x48": "/system/characters/x48/75460.jpg?1635115581"
+      },
+      "url": "/characters/75460-snek"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 146008,
+      "name": "Smile Man",
+      "russian": "Человек-улыбка",
+      "image": {
+        "original": "/system/characters/original/146008.jpg?1635995048",
+        "preview": "/system/characters/preview/146008.jpg?1635995048",
+        "x96": "/system/characters/x96/146008.jpg?1635995048",
+        "x48": "/system/characters/x48/146008.jpg?1635995048"
+      },
+      "url": "/characters/146008-smile-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134469,
+      "name": "Slugerous",
+      "russian": "Слизняк",
+      "image": {
+        "original": "/system/characters/original/134469.jpg?1635987953",
+        "preview": "/system/characters/preview/134469.jpg?1635987953",
+        "x96": "/system/characters/x96/134469.jpg?1635987953",
+        "x48": "/system/characters/x48/134469.jpg?1635987953"
+      },
+      "url": "/characters/134469-slugerous"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 169809,
+      "name": "Sitch",
+      "russian": "Ситч",
+      "image": {
+        "original": "/system/characters/original/169809.jpg?1636001001",
+        "preview": "/system/characters/preview/169809.jpg?1636001001",
+        "x96": "/system/characters/x96/169809.jpg?1636001001",
+        "x48": "/system/characters/x48/169809.jpg?1636001001"
+      },
+      "url": "/characters/169809-sitch"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 136443,
+      "name": "Shibabawa",
+      "russian": "Шибабава",
+      "image": {
+        "original": "/system/characters/original/136443.jpg?1635988763",
+        "preview": "/system/characters/preview/136443.jpg?1635988763",
+        "x96": "/system/characters/x96/136443.jpg?1635988763",
+        "x48": "/system/characters/x48/136443.jpg?1635988763"
+      },
+      "url": "/characters/136443-shibabawa"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 210200,
+      "name": "Sekingar",
+      "russian": "Секингар",
+      "image": {
+        "original": "/system/characters/original/210200.jpg?1652744214",
+        "preview": "/system/characters/preview/210200.jpg?1652744214",
+        "x96": "/system/characters/x96/210200.jpg?1652744214",
+        "x48": "/system/characters/x48/210200.jpg?1652744214"
+      },
+      "url": "/characters/210200-sekingar"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86029,
+      "name": "Puripuri Prisoner",
+      "russian": "Гомо-Гомо Зек",
+      "image": {
+        "original": "/system/characters/original/86029.jpg?1644895498",
+        "preview": "/system/characters/preview/86029.jpg?1644895498",
+        "x96": "/system/characters/x96/86029.jpg?1644895498",
+        "x48": "/system/characters/x48/86029.jpg?1644895498"
+      },
+      "url": "/characters/86029-puripuri-prisoner"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127451,
+      "name": "Pig God",
+      "russian": "Свинобог",
+      "image": {
+        "original": "/system/characters/original/127451.jpg?1635985586",
+        "preview": "/system/characters/preview/127451.jpg?1635985586",
+        "x96": "/system/characters/x96/127451.jpg?1635985586",
+        "x48": "/system/characters/x48/127451.jpg?1635985586"
+      },
+      "url": "/characters/127451-pig-god"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81935,
+      "name": "Mumen Rider",
+      "russian": "Бесправный Ездок",
+      "image": {
+        "original": "/system/characters/original/81935.jpg?1644895152",
+        "preview": "/system/characters/preview/81935.jpg?1644895152",
+        "x96": "/system/characters/x96/81935.jpg?1644895152",
+        "x48": "/system/characters/x48/81935.jpg?1644895152"
+      },
+      "url": "/characters/81935-mumen-rider"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 85797,
+      "name": "Mosquito Girl",
+      "russian": "Женщина-Комар",
+      "image": {
+        "original": "/system/characters/original/85797.jpg?1635687505",
+        "preview": "/system/characters/preview/85797.jpg?1635687505",
+        "x96": "/system/characters/x96/85797.jpg?1635687505",
+        "x48": "/system/characters/x48/85797.jpg?1635687505"
+      },
+      "url": "/characters/85797-mosquito-girl"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127446,
+      "name": "Metal Bat",
+      "russian": "Стальная Бита",
+      "image": {
+        "original": "/system/characters/original/127446.jpg?1644902243",
+        "preview": "/system/characters/preview/127446.jpg?1644902243",
+        "x96": "/system/characters/x96/127446.jpg?1644902243",
+        "x48": "/system/characters/x48/127446.jpg?1644902243"
+      },
+      "url": "/characters/127446-metal-bat"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 136318,
+      "name": "Melzalgald",
+      "russian": "Мерзергард",
+      "image": {
+        "original": "/system/characters/original/136318.jpg?1635988694",
+        "preview": "/system/characters/preview/136318.jpg?1635988694",
+        "x96": "/system/characters/x96/136318.jpg?1635988694",
+        "x48": "/system/characters/x48/136318.jpg?1635988694"
+      },
+      "url": "/characters/136318-melzalgald"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134196,
+      "name": "Marugori",
+      "russian": "Маругори",
+      "image": {
+        "original": "/system/characters/original/134196.jpg?1635987791",
+        "preview": "/system/characters/preview/134196.jpg?1635987791",
+        "x96": "/system/characters/x96/134196.jpg?1635987791",
+        "x48": "/system/characters/x48/134196.jpg?1635987791"
+      },
+      "url": "/characters/134196-marugori"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 140129,
+      "name": "Lily",
+      "russian": "Лили",
+      "image": {
+        "original": "/system/characters/original/140129.jpg?1635990755",
+        "preview": "/system/characters/preview/140129.jpg?1635990755",
+        "x96": "/system/characters/x96/140129.jpg?1635990755",
+        "x48": "/system/characters/x48/140129.jpg?1635990755"
+      },
+      "url": "/characters/140129-lily"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86035,
+      "name": "Lightning Max",
+      "russian": "Молниеносный Макс",
+      "image": {
+        "original": "/system/characters/original/86035.jpg?1635687674",
+        "preview": "/system/characters/preview/86035.jpg?1635687674",
+        "x96": "/system/characters/x96/86035.jpg?1635687674",
+        "x48": "/system/characters/x48/86035.jpg?1635687674"
+      },
+      "url": "/characters/86035-lightning-max"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86055,
+      "name": "Kombu Infinity",
+      "russian": "Бесконечные Водоросли",
+      "image": {
+        "original": "/system/characters/original/86055.jpg?1635687694",
+        "preview": "/system/characters/preview/86055.jpg?1635687694",
+        "x96": "/system/characters/x96/86055.jpg?1635687694",
+        "x48": "/system/characters/x48/86055.jpg?1635687694"
+      },
+      "url": "/characters/86055-kombu-infinity"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 94239,
+      "name": "King",
+      "russian": "Кинг",
+      "image": {
+        "original": "/system/characters/original/94239.jpg?1644896028",
+        "preview": "/system/characters/preview/94239.jpg?1644896028",
+        "x96": "/system/characters/x96/94239.jpg?1644896028",
+        "x48": "/system/characters/x48/94239.jpg?1644896028"
+      },
+      "url": "/characters/94239-king"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134222,
+      "name": "Kamakyuri",
+      "russian": "Камакюри",
+      "image": {
+        "original": "/system/characters/original/134222.jpg?1635987855",
+        "preview": "/system/characters/preview/134222.jpg?1635987855",
+        "x96": "/system/characters/x96/134222.jpg?1635987855",
+        "x48": "/system/characters/x48/134222.jpg?1635987855"
+      },
+      "url": "/characters/134222-kamakyuri"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86053,
+      "name": "Jet Nice Guy",
+      "russian": "Хороший парень Джет",
+      "image": {
+        "original": "/system/characters/original/86053.jpg?1635687594",
+        "preview": "/system/characters/preview/86053.jpg?1635687594",
+        "x96": "/system/characters/x96/86053.jpg?1635687594",
+        "x48": "/system/characters/x48/86053.jpg?1635687594"
+      },
+      "url": "/characters/86053-jet-nice-guy"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 136333,
+      "name": "Iaian",
+      "russian": "Айен",
+      "image": {
+        "original": "/system/characters/original/136333.jpg?1635988606",
+        "preview": "/system/characters/preview/136333.jpg?1635988606",
+        "x96": "/system/characters/x96/136333.jpg?1635988606",
+        "x48": "/system/characters/x48/136333.jpg?1635988606"
+      },
+      "url": "/characters/136333-iaian"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134195,
+      "name": "Hukegao",
+      "russian": "Староликий",
+      "image": {
+        "original": "/system/characters/original/134195.jpg?1635987916",
+        "preview": "/system/characters/preview/134195.jpg?1635987916",
+        "x96": "/system/characters/x96/134195.jpg?1635987916",
+        "x48": "/system/characters/x48/134195.jpg?1635987916"
+      },
+      "url": "/characters/134195-hukegao"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86019,
+      "name": "Hammerhead",
+      "russian": "Молотоглав",
+      "image": {
+        "original": "/system/characters/original/86019.jpg?1635687733",
+        "preview": "/system/characters/preview/86019.jpg?1635687733",
+        "x96": "/system/characters/x96/86019.jpg?1635687733",
+        "x48": "/system/characters/x48/86019.jpg?1635687733"
+      },
+      "url": "/characters/86019-hammerhead"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 85981,
+      "name": "Ground Dragon",
+      "russian": "Земляной Дракон",
+      "image": {
+        "original": "/system/characters/original/85981.jpg?1635687497",
+        "preview": "/system/characters/preview/85981.jpg?1635687497",
+        "x96": "/system/characters/x96/85981.jpg?1635687497",
+        "x48": "/system/characters/x48/85981.jpg?1635687497"
+      },
+      "url": "/characters/85981-ground-dragon"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 141812,
+      "name": "Groribas",
+      "russian": "Грорибас",
+      "image": {
+        "original": "/system/characters/original/141812.jpg?1635992073",
+        "preview": "/system/characters/preview/141812.jpg?1635992073",
+        "x96": "/system/characters/x96/141812.jpg?1635992073",
+        "x48": "/system/characters/x48/141812.jpg?1635992073"
+      },
+      "url": "/characters/141812-groribas"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81943,
+      "name": "Golden Ball",
+      "russian": "Золотой Шар",
+      "image": {
+        "original": "/system/characters/original/81943.jpg?1635462205",
+        "preview": "/system/characters/preview/81943.jpg?1635462205",
+        "x96": "/system/characters/x96/81943.jpg?1635462205",
+        "x48": "/system/characters/x48/81943.jpg?1635462205"
+      },
+      "url": "/characters/81943-golden-ball"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 141828,
+      "name": "Geryuganshoop",
+      "russian": "Гэрюганшуп",
+      "image": {
+        "original": "/system/characters/original/141828.jpg?1635992079",
+        "preview": "/system/characters/preview/141828.jpg?1635992079",
+        "x96": "/system/characters/x96/141828.jpg?1635992079",
+        "x48": "/system/characters/x48/141828.jpg?1635992079"
+      },
+      "url": "/characters/141828-geryuganshoop"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81931,
+      "name": "Fubuki",
+      "russian": "Мисс Буран",
+      "image": {
+        "original": "/system/characters/original/81931.jpg?1644895065",
+        "preview": "/system/characters/preview/81931.jpg?1644895065",
+        "x96": "/system/characters/x96/81931.jpg?1644895065",
+        "x48": "/system/characters/x48/81931.jpg?1644895065"
+      },
+      "url": "/characters/81931-fubuki"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134468,
+      "name": "Frog-Man",
+      "russian": "Человек-лягушка",
+      "image": {
+        "original": "/system/characters/original/134468.jpg?1635987941",
+        "preview": "/system/characters/preview/134468.jpg?1635987941",
+        "x96": "/system/characters/x96/134468.jpg?1635987941",
+        "x48": "/system/characters/x48/134468.jpg?1635987941"
+      },
+      "url": "/characters/134468-frog-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127448,
+      "name": "Flashy Flash",
+      "russian": "Световой Флеш",
+      "image": {
+        "original": "/system/characters/original/127448.jpg?1644902022",
+        "preview": "/system/characters/preview/127448.jpg?1644902022",
+        "x96": "/system/characters/x96/127448.jpg?1644902022",
+        "x48": "/system/characters/x48/127448.jpg?1644902022"
+      },
+      "url": "/characters/127448-flashy-flash"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 156756,
+      "name": "Eyelashes",
+      "russian": "Реснички",
+      "image": {
+        "original": "/system/characters/original/156756.jpg?1644912465",
+        "preview": "/system/characters/preview/156756.jpg?1644912465",
+        "x96": "/system/characters/x96/156756.jpg?1644912465",
+        "x48": "/system/characters/x48/156756.jpg?1644912465"
+      },
+      "url": "/characters/156756-eyelashes"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127452,
+      "name": "Drive Knight",
+      "russian": "Технорыцарь",
+      "image": {
+        "original": "/system/characters/original/127452.jpg?1635985605",
+        "preview": "/system/characters/preview/127452.jpg?1635985605",
+        "x96": "/system/characters/x96/127452.jpg?1635985605",
+        "x48": "/system/characters/x48/127452.jpg?1635985605"
+      },
+      "url": "/characters/127452-drive-knight"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134795,
+      "name": "Doctor Kuseno",
+      "russian": "Доктор Кусэно",
+      "image": {
+        "original": "/system/characters/original/134795.jpg?1635988201",
+        "preview": "/system/characters/preview/134795.jpg?1635988201",
+        "x96": "/system/characters/x96/134795.jpg?1635988201",
+        "x48": "/system/characters/x48/134795.jpg?1635988201"
+      },
+      "url": "/characters/134795-doctor-kuseno"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134466,
+      "name": "Doctor Genus",
+      "russian": "Доктор Генус",
+      "image": {
+        "original": "/system/characters/original/134466.jpg?1635987935",
+        "preview": "/system/characters/preview/134466.jpg?1635987935",
+        "x96": "/system/characters/x96/134466.jpg?1635987935",
+        "x48": "/system/characters/x48/134466.jpg?1635987935"
+      },
+      "url": "/characters/134466-doctor-genus"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86057,
+      "name": "Deep Sea King",
+      "russian": "Морской Царь",
+      "image": {
+        "original": "/system/characters/original/86057.jpg?1635687612",
+        "preview": "/system/characters/preview/86057.jpg?1635687612",
+        "x96": "/system/characters/x96/86057.jpg?1635687612",
+        "x48": "/system/characters/x48/86057.jpg?1635687612"
+      },
+      "url": "/characters/86057-deep-sea-king"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134115,
+      "name": "Crabrante",
+      "russian": "Крабранта",
+      "image": {
+        "original": "/system/characters/original/134115.jpg?1635987790",
+        "preview": "/system/characters/preview/134115.jpg?1635987790",
+        "x96": "/system/characters/x96/134115.jpg?1635987790",
+        "x48": "/system/characters/x48/134115.jpg?1635987790"
+      },
+      "url": "/characters/134115-crabrante"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127449,
+      "name": "Child Emperor",
+      "russian": "Ребёнок-император",
+      "image": {
+        "original": "/system/characters/original/127449.jpg?1644901967",
+        "preview": "/system/characters/preview/127449.jpg?1644901967",
+        "x96": "/system/characters/x96/127449.jpg?1644901967",
+        "x48": "/system/characters/x48/127449.jpg?1644901967"
+      },
+      "url": "/characters/127449-child-emperor"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 136300,
+      "name": "Charanko",
+      "russian": "Тяранко",
+      "image": {
+        "original": "/system/characters/original/136300.jpg?1635988604",
+        "preview": "/system/characters/preview/136300.jpg?1635988604",
+        "x96": "/system/characters/x96/136300.jpg?1635988604",
+        "x48": "/system/characters/x48/136300.jpg?1635988604"
+      },
+      "url": "/characters/136300-charanko"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 85991,
+      "name": "Carnage Kabuto",
+      "russian": "Носорог Асура",
+      "image": {
+        "original": "/system/characters/original/85991.jpg?1635687577",
+        "preview": "/system/characters/preview/85991.jpg?1635687577",
+        "x96": "/system/characters/x96/85991.jpg?1635687577",
+        "x48": "/system/characters/x48/85991.jpg?1635687577"
+      },
+      "url": "/characters/85991-carnage-kabuto"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86051,
+      "name": "Bun-Bun Man",
+      "russian": "Жужжащий Человек",
+      "image": {
+        "original": "/system/characters/original/86051.jpg?1635687582",
+        "preview": "/system/characters/preview/86051.jpg?1635687582",
+        "x96": "/system/characters/x96/86051.jpg?1635687582",
+        "x48": "/system/characters/x48/86051.jpg?1635687582"
+      },
+      "url": "/characters/86051-bun-bun-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 108235,
+      "name": "Boros",
+      "russian": "Борос",
+      "image": {
+        "original": "/system/characters/original/108235.jpg?1635819177",
+        "preview": "/system/characters/preview/108235.jpg?1635819177",
+        "x96": "/system/characters/x96/108235.jpg?1635819177",
+        "x48": "/system/characters/x48/108235.jpg?1635819177"
+      },
+      "url": "/characters/108235-boros"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81933,
+      "name": "Bofoy",
+      "russian": "Бофой",
+      "image": {
+        "original": "/system/characters/original/81933.jpg?1635462119",
+        "preview": "/system/characters/preview/81933.jpg?1635462119",
+        "x96": "/system/characters/x96/81933.jpg?1635462119",
+        "x48": "/system/characters/x48/81933.jpg?1635462119"
+      },
+      "url": "/characters/81933-bofoy"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 156757,
+      "name": "Blue Fire",
+      "russian": "Голубое Пламя",
+      "image": {
+        "original": "/system/characters/original/156757.jpg?1575356687",
+        "preview": "/system/characters/preview/156757.jpg?1575356687",
+        "x96": "/system/characters/x96/156757.jpg?1575356687",
+        "x48": "/system/characters/x48/156757.jpg?1575356687"
+      },
+      "url": "/characters/156757-blue-fire"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134794,
+      "name": "Bespectacled Worker",
+      "russian": "Оператор АГ в очках",
+      "image": {
+        "original": "/system/characters/original/134794.jpg?1635988167",
+        "preview": "/system/characters/preview/134794.jpg?1635988167",
+        "x96": "/system/characters/x96/134794.jpg?1635988167",
+        "x48": "/system/characters/x48/134794.jpg?1635988167"
+      },
+      "url": "/characters/134794-bespectacled-worker"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 85985,
+      "name": "Beast King",
+      "russian": "Царь Зверей",
+      "image": {
+        "original": "/system/characters/original/85985.jpg?1635687665",
+        "preview": "/system/characters/preview/85985.jpg?1635687665",
+        "x96": "/system/characters/x96/85985.jpg?1635687665",
+        "x48": "/system/characters/x48/85985.jpg?1635687665"
+      },
+      "url": "/characters/85985-beast-king"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 134793,
+      "name": "Bearded Worker",
+      "russian": "Оператор АГ с щетиной",
+      "image": {
+        "original": "/system/characters/original/134793.jpg?1644903180",
+        "preview": "/system/characters/preview/134793.jpg?1644903180",
+        "x96": "/system/characters/x96/134793.jpg?1644903180",
+        "x48": "/system/characters/x48/134793.jpg?1644903180"
+      },
+      "url": "/characters/134793-bearded-worker"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 156758,
+      "name": "Battery Man",
+      "russian": "Человек-аккумулятор",
+      "image": {
+        "original": "/system/characters/original/156758.jpg?1575440272",
+        "preview": "/system/characters/preview/156758.jpg?1575440272",
+        "x96": "/system/characters/x96/156758.jpg?1575440272",
+        "x48": "/system/characters/x48/156758.jpg?1575440272"
+      },
+      "url": "/characters/156758-battery-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 81141,
+      "name": "Bang",
+      "russian": "Бэнг",
+      "image": {
+        "original": "/system/characters/original/81141.jpg?1644895079",
+        "preview": "/system/characters/preview/81141.jpg?1644895079",
+        "x96": "/system/characters/x96/81141.jpg?1644895079",
+        "x48": "/system/characters/x48/81141.jpg?1644895079"
+      },
+      "url": "/characters/81141-bang"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 127453,
+      "name": "Atomic Samurai",
+      "russian": "Атомный Самурай",
+      "image": {
+        "original": "/system/characters/original/127453.jpg?1644902203",
+        "preview": "/system/characters/preview/127453.jpg?1644902203",
+        "x96": "/system/characters/x96/127453.jpg?1644902203",
+        "x48": "/system/characters/x48/127453.jpg?1644902203"
+      },
+      "url": "/characters/127453-atomic-samurai"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 85983,
+      "name": "Armored Gorilla",
+      "russian": "Бронированная Горилла",
+      "image": {
+        "original": "/system/characters/original/85983.jpg?1635687569",
+        "preview": "/system/characters/preview/85983.jpg?1635687569",
+        "x96": "/system/characters/x96/85983.jpg?1635687569",
+        "x48": "/system/characters/x48/85983.jpg?1635687569"
+      },
+      "url": "/characters/85983-armored-gorilla"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 173362,
+      "name": "Armored Chief Clerk",
+      "russian": "",
+      "image": {
+        "original": "/system/characters/original/173362.jpg?1652733213",
+        "preview": "/system/characters/preview/173362.jpg?1652733213",
+        "x96": "/system/characters/x96/173362.jpg?1652733213",
+        "x48": "/system/characters/x48/173362.jpg?1652733213"
+      },
+      "url": "/characters/173362-armored-chief-clerk"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Supporting"
+    ],
+    "roles_russian": [
+      "Supporting"
+    ],
+    "character": {
+      "id": 86049,
+      "name": "All Back-Man",
+      "russian": "Возвращатель",
+      "image": {
+        "original": "/system/characters/original/86049.jpg?1635687621",
+        "preview": "/system/characters/preview/86049.jpg?1635687621",
+        "x96": "/system/characters/x96/86049.jpg?1635687621",
+        "x48": "/system/characters/x48/86049.jpg?1635687621"
+      },
+      "url": "/characters/86049-all-back-man"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Main"
+    ],
+    "roles_russian": [
+      "Main"
+    ],
+    "character": {
+      "id": 73935,
+      "name": "Saitama",
+      "russian": "Сайтама",
+      "image": {
+        "original": "/system/characters/original/73935.jpg?1644894442",
+        "preview": "/system/characters/preview/73935.jpg?1644894442",
+        "x96": "/system/characters/x96/73935.jpg?1644894442",
+        "x48": "/system/characters/x48/73935.jpg?1644894442"
+      },
+      "url": "/characters/73935-saitama"
+    },
+    "person": null
+  },
+  {
+    "roles": [
+      "Main"
+    ],
+    "roles_russian": [
+      "Main"
+    ],
+    "character": {
+      "id": 73979,
+      "name": "Genos",
+      "russian": "Генос",
+      "image": {
+        "original": "/system/characters/original/73979.jpg?1644894508",
+        "preview": "/system/characters/preview/73979.jpg?1644894508",
+        "x96": "/system/characters/x96/73979.jpg?1644894508",
+        "x48": "/system/characters/x48/73979.jpg?1644894508"
+      },
+      "url": "/characters/73979-genos"
+    },
+    "person": null
+  }
+]

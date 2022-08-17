@@ -8,22 +8,24 @@ use ShikimoriAPI\ShikimoriAPI;
 use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Appear
 {
     private ShikimoriAPI $api;
 
-    public function __construct(ShikimoriAPI $api = null)
+    public function __construct(ShikimoriAPI $api)
     {
-        $this->api = $api ?? new ShikimoriAPI();
+        $this->api = $api;
     }
 
     /**
      * @param array $ids
-     * @return array
+     * @return bool
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function appears(array $ids): bool
     {

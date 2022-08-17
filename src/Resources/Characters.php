@@ -8,6 +8,7 @@ use ShikimoriAPI\ShikimoriAPI;
 use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Characters
 {
@@ -24,6 +25,7 @@ class Characters
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function get(int $id): array
     {
@@ -36,6 +38,7 @@ class Characters
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function search(string $search): array
     {

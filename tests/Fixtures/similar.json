@@ -1,0 +1,21 @@
+[
+  {
+    "id": 4,
+    "name": "anime_3",
+    "russian": "аниме_4",
+    "image": {
+      "original": "/assets/globals/missing_original.jpg",
+      "preview": "/assets/globals/missing_preview.jpg",
+      "x96": "/assets/globals/missing_x96.jpg",
+      "x48": "/assets/globals/missing_x48.jpg"
+    },
+    "url": "/animes/4-anime-3",
+    "kind": "tv",
+    "score": "1.0",
+    "status": "released",
+    "episodes": 0,
+    "episodes_aired": 0,
+    "aired_on": null,
+    "released_on": null
+  }
+]

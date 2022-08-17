@@ -10,8 +10,8 @@ class Request
     public const OAUTH_AUTHORIZE_URL = "https://shikimori.one/oauth/authorize";
     public const OAUTH_TOKEN_URL = "https://shikimori.one/oauth/token";
 
-    protected $lastResponse = [];
-    protected $options = [
+    protected array $lastResponse = [];
+    protected array $options = [
         'curl_options' => [],
         'return_assoc' => false,
     ];
@@ -23,9 +23,15 @@ class Request
 
 
     /**
-     * @throws ShikimoriAPIException
+     * @param $method
+     * @param $uri
+     * @param $parameters
+     * @param $headers
+     * @return array
      * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function api($method, $uri, $parameters = [], $headers = []): array
     {
@@ -33,9 +39,15 @@ class Request
     }
 
     /**
-     * @throws ShikimoriAPIException
+     * @param $method
+     * @param $url
+     * @param $parameters
+     * @param $headers
+     * @return array
      * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function send($method, $url, $parameters = [], $headers = []): array
     {
@@ -120,7 +132,7 @@ class Request
         return $this->lastResponse;
     }
 
-    public function getLastResponse()
+    public function getLastResponse(): array
     {
         return $this->lastResponse;
     }
@@ -169,6 +181,7 @@ class Request
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     protected function handleResponseError($body, $status)
     {
@@ -176,7 +189,7 @@ class Request
 
         switch ($status) {
             case 422:
-                $exception = new ShikimoriAPINotFoundException($parsedBody, $status);
+                $exception = new ShikimoriAPIValidationException($parsedBody, $status);
                 $exception->setReason($parsedBody);
                 throw $exception;
             case 401:

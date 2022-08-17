@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace ShikimoriAPI;
 
-class ShikimoriAPIValidationException extends \Exception
+use Exception;
+
+class ShikimoriAPIValidationException extends Exception
 {
     private $reason;
 

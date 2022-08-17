@@ -6,14 +6,14 @@ namespace ShikimoriAPI;
 
 class Session
 {
-    protected $accessToken = '';
-    protected $clientId = '';
-    protected $clientSecret = '';
-    protected $expirationTime = 0;
-    protected $redirectUri = '';
-    protected $refreshToken = '';
-    protected $scope = '';
-    protected $request = null;
+    protected string $accessToken = '';
+    protected string $clientId = '';
+    protected string $clientSecret = '';
+    protected int $expirationTime = 0;
+    protected string $redirectUri = '';
+    protected string $refreshToken = '';
+    protected string $scope = '';
+    protected ?Request $request = null;
 
     public function __construct($clientId, $clientSecret = '', $redirectUri = '', $request = null)
     {
@@ -25,7 +25,11 @@ class Session
     }
 
 
-    public function getAuthorizeUrl($options = [])
+    /**
+     * @param array $options
+     * @return string
+     */
+    public function getAuthorizeUrl(array $options = []): string
     {
         $options = (array)$options;
 
@@ -41,42 +45,50 @@ class Session
         return Request::OAUTH_AUTHORIZE_URL . '?' . http_build_query($parameters, '', '&');
     }
 
-    public function getAccessToken()
+    public function getAccessToken(): string
     {
         return $this->accessToken;
     }
 
-    public function getClientId()
+    public function getClientId(): string
     {
         return $this->clientId;
     }
 
-    public function getClientSecret()
+    public function getClientSecret(): string
     {
         return $this->clientSecret;
     }
 
-    public function getTokenExpiration()
+    public function getTokenExpiration(): int
     {
         return $this->expirationTime;
     }
 
-    public function getRedirectUri()
+    public function getRedirectUri(): string
     {
         return $this->redirectUri;
     }
 
-    public function getRefreshToken()
+    public function getRefreshToken(): string
     {
         return $this->refreshToken;
     }
 
-    public function getScope()
+    public function getScope(): array
     {
         return explode(' ', $this->scope);
     }
-    //TODO: f
-    public function refreshAccessToken($refreshToken = null)
+
+    /**
+     * @param $refreshToken
+     * @return bool
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     */
+    public function refreshAccessToken($refreshToken = null): bool
     {
         $parameters = [
             'grant_type' => 'refresh_token',
@@ -112,6 +124,14 @@ class Session
         return false;
     }
 
+    /**
+     * @param $authorizationCode
+     * @return bool
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     */
     public function requestAccessToken($authorizationCode): bool
     {
         $parameters = [
@@ -125,16 +145,6 @@ class Session
         $response = $this->request->send('POST', Request::OAUTH_TOKEN_URL, $parameters, []);
         $response = $response['body'];
 
-        /// Examples
-        /// {
-        //    "access_token": "bUhseBI4YXzZgH72CxNPqnAVTydJvrHgrKtGOpRDr_Y",
-        //    "token_type": "Bearer",
-        //    "expires_in": 86400,
-        //    "refresh_token": "t8iDpLkCFFCGc_-jFUAyic_fM6uGnj5fBXXOr8XgEM4",
-        //    "scope": "user_rates messages comments topics content clubs friends ignores",
-        //    "created_at": 1660049446
-        //}
-
         if (isset($response->refresh_token) && isset($response->access_token)) {
             $this->accessToken = $response->access_token;
             $this->expirationTime = time() + $response->expires_in;
@@ -147,7 +157,10 @@ class Session
         return false;
     }
 
-    public function requestCredentialsToken()
+    /**
+     * @return bool
+     */
+    public function requestCredentialsToken(): bool
     {
         $payload = base64_encode($this->getClientId() . ':' . $this->getClientSecret());
 

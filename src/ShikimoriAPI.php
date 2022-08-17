@@ -76,18 +76,19 @@ class ShikimoriAPI
     /**
      * @param array $headers
      * @return array
+     * @throws ShikimoriAPIException
      */
     protected function authHeaders(array $headers = []): array
     {
         $accessToken = $this->session ? $this->session->getAccessToken() : $this->accessToken;
 
         if ($accessToken) {
-            $headers = array_merge($headers, [
+            return $headers = array_merge($headers, [
                 'Authorization' => 'Bearer ' . $accessToken,
             ]);
         }
 
-        return $headers;
+        throw new ShikimoriAPIException('Access token is empty');
     }
 
     /**
@@ -97,9 +98,11 @@ class ShikimoriAPI
      * @param $headers
      * @param $json
      * @param $withToken
-     * @return array|Closure
+     * @return array
+     * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function sendRequest($method, $uri, $parameters = [], $headers = [], $json = true, $withToken = false): array
     {
@@ -114,7 +117,9 @@ class ShikimoriAPI
         }
 
         try {
-            $headers = $this->authHeaders($headers);
+            if ($withToken) {
+                $headers = $this->authHeaders($headers);
+            }
 
             return $lastResponse = $this->request->api($method, $uri, $parameters, $headers);
         } catch (ShikimoriAPIException $exception) {
@@ -145,6 +150,10 @@ class ShikimoriAPI
      * @param $headers
      * @param $json
      * @return array
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function sendRequestWithToken($method, $uri, $parameters = [], $headers = [], $json = true): array
     {
@@ -154,10 +163,14 @@ class ShikimoriAPI
     /**
      * @param $method
      * @param $uri
-     * @param array $parameters
-     * @param array $headers
-     * @param bool $json
-     * @return array|Closure
+     * @param $parameters
+     * @param $headers
+     * @param $json
+     * @return array
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function sendRequestWithoutToken($method, $uri, $parameters = [], $headers = [], $json = true): array
     {
@@ -165,8 +178,11 @@ class ShikimoriAPI
     }
 
     /**
-     * Me User info
      * @return array
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function whoami(): array
     {

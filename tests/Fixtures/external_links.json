@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11190824,
+    "kind": "official_site",
+    "url": "http://www.onepunchman-anime.net/",
+    "source": "myanimelist",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2022-08-03T13:05:49.942+03:00",
+    "updated_at": "2022-08-03T13:05:49.942+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 312715,
+    "kind": "wikipedia",
+    "url": "https://ja.wikipedia.org/wiki/ワンパンマン",
+    "source": "shikimori",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2018-04-11T02:48:34.239+03:00",
+    "updated_at": "2020-02-09T11:52:03.888+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 312716,
+    "kind": "wikipedia",
+    "url": "https://ru.wikipedia.org/wiki/Ванпанчмен",
+    "source": "shikimori",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2018-04-11T02:48:34.239+03:00",
+    "updated_at": "2020-02-09T11:52:03.911+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 11190827,
+    "kind": "wikipedia",
+    "url": "http://en.wikipedia.org/wiki/One-Punch_Man",
+    "source": "myanimelist",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2022-08-03T13:05:50.027+03:00",
+    "updated_at": "2022-08-03T13:05:50.027+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 11190826,
+    "kind": "anime_news_network",
+    "url": "http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16840",
+    "source": "myanimelist",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2022-08-03T13:05:50.001+03:00",
+    "updated_at": "2022-08-03T13:05:50.001+03:00",
+    "imported_at": null
+  },
+  {
+    "id": null,
+    "kind": "myanimelist",
+    "url": "http://myanimelist.net/anime/30276",
+    "source": "myanimelist",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": null,
+    "updated_at": null,
+    "imported_at": null
+  },
+  {
+    "id": 11190825,
+    "kind": "anime_db",
+    "url": "http://anidb.info/perl-bin/animedb.pl?show=anime&aid=11123",
+    "source": "myanimelist",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2022-08-03T13:05:49.971+03:00",
+    "updated_at": "2022-08-03T13:05:49.971+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 312714,
+    "kind": "world_art",
+    "url": "http://www.world-art.ru/animation/animation.php?id=8281",
+    "source": "shikimori",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2017-07-03T11:05:53.744+03:00",
+    "updated_at": "2020-02-09T11:52:03.865+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 312717,
+    "kind": "kinopoisk",
+    "url": "https://www.kinopoisk.ru/film/942544/",
+    "source": "shikimori",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2020-03-15T22:56:14.708+03:00",
+    "updated_at": "2020-03-15T22:56:14.708+03:00",
+    "imported_at": null
+  },
+  {
+    "id": 312713,
+    "kind": "kage_project",
+    "url": "http://fansubs.ru/base.php?id=5188",
+    "source": "shikimori",
+    "entry_id": 30276,
+    "entry_type": "Anime",
+    "created_at": "2017-06-02T13:25:05.488+03:00",
+    "updated_at": "2020-02-09T11:52:03.842+03:00",
+    "imported_at": null
+  }
+]

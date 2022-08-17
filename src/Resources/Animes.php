@@ -5,8 +5,10 @@ declare(strict_types=1);
 namespace ShikimoriAPI\Resources;
 
 use ShikimoriAPI\ShikimoriAPI;
+use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Animes
 {
@@ -36,43 +38,99 @@ class Animes
      * - ids exclude_ids*. List of anime ids separated by comma
      * - string search Optional. Search phrase to filter animes by name
      * @return array
-     * @throws ShikimoriAPINotFoundException|ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException|ShikimoriAPIException|ShikimoriAPIValidationException
      */
     public function getAll(array $options = ['order' => 'popularity', 'status' => 'latest', 'limit' => 50]): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes', $options)['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function get(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id)['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function roles(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/roles')['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function similar(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/similar')['body'];
     }
 
-    public function releated(int $id): array
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
+    public function related(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/related')['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function screenshots(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/screenshots')['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function externalLinks(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/external_links')['body'];
     }
 
+    /**
+     * @param int $id
+     * @return array
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     * @throws ShikimoriAPIAuthException
+     */
     public function topics(int $id): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/animes/' . $id . '/topics')['body'];

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2,
+    "user_id": 23456789,
+    "comment": null,
+    "moderator_id": 23456789,
+    "reason": "moderator comment",
+    "created_at": "2020-05-19T16:53:57.256+03:00",
+    "duration_minutes": 180,
+    "user": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    },
+    "moderator": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    }
+  },
+  {
+    "id": 1,
+    "user_id": 23456789,
+    "comment": {
+      "id": 3,
+      "commentable_id": 82468,
+      "commentable_type": "Topic",
+      "body": "comment_body_3\n\n[ban=1]",
+      "user_id": 23456789,
+      "created_at": "2020-05-19T16:53:57.256+03:00",
+      "updated_at": "2020-05-19T16:53:57.256+03:00",
+      "is_summary": false,
+      "is_offtopic": false
+    },
+    "moderator_id": 23456789,
+    "reason": "moderator comment",
+    "created_at": "2020-05-19T16:53:57.256+03:00",
+    "duration_minutes": 180,
+    "user": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    },
+    "moderator": {
+      "id": 23456789,
+      "nickname": "user_user",
+      "avatar": "http:///assets/globals/missing_avatar/x48.png",
+      "image": {
+        "x160": "http:///assets/globals/missing_avatar/x160.png",
+        "x148": "http:///assets/globals/missing_avatar/x148.png",
+        "x80": "http:///assets/globals/missing_avatar/x80.png",
+        "x64": "http:///assets/globals/missing_avatar/x64.png",
+        "x48": "http:///assets/globals/missing_avatar/x48.png",
+        "x32": "http:///assets/globals/missing_avatar/x32.png",
+        "x16": "http:///assets/globals/missing_avatar/x16.png"
+      },
+      "last_online_at": "2020-05-19T16:53:56.355+03:00"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "relation": "Adaptation",
+    "relation_russian": "Адаптация",
+    "anime": null,
+    "manga": {
+      "id": 44347,
+      "name": "One Punch-Man",
+      "russian": "Ванпанчмен",
+      "image": {
+        "original": "/system/mangas/original/44347.jpg?1657553727",
+        "preview": "/system/mangas/preview/44347.jpg?1657553727",
+        "x96": "/system/mangas/x96/44347.jpg?1657553727",
+        "x48": "/system/mangas/x48/44347.jpg?1657553727"
+      },
+      "url": "/mangas/z44347-one-punch-man",
+      "kind": "manga",
+      "score": "8.74",
+      "status": "ongoing",
+      "volumes": 0,
+      "chapters": 0,
+      "aired_on": "2012-06-14",
+      "released_on": null
+    }
+  },
+  {
+    "relation": "Side story",
+    "relation_russian": "Другая история",
+    "anime": {
+      "id": 31704,
+      "name": "One Punch Man: Road to Hero",
+      "russian": "Ванпанчмен: Путь к становлению героем",
+      "image": {
+        "original": "/system/animes/original/31704.jpg?1635247299",
+        "preview": "/system/animes/preview/31704.jpg?1635247299",
+        "x96": "/system/animes/x96/31704.jpg?1635247299",
+        "x48": "/system/animes/x48/31704.jpg?1635247299"
+      },
+      "url": "/animes/z31704-one-punch-man-road-to-hero",
+      "kind": "ova",
+      "score": "7.71",
+      "status": "released",
+      "episodes": 1,
+      "episodes_aired": 0,
+      "aired_on": "2015-12-04",
+      "released_on": null
+    },
+    "manga": null
+  },
+  {
+    "relation": "Side story",
+    "relation_russian": "Другая история",
+    "anime": {
+      "id": 31772,
+      "name": "One Punch Man Specials",
+      "russian": "Ванпанчмен: Спецвыпуски",
+      "image": {
+        "original": "/system/animes/original/31772.jpg?1635247631",
+        "preview": "/system/animes/preview/31772.jpg?1635247631",
+        "x96": "/system/animes/x96/31772.jpg?1635247631",
+        "x48": "/system/animes/x48/31772.jpg?1635247631"
+      },
+      "url": "/animes/y31772-one-punch-man-specials",
+      "kind": "special",
+      "score": "7.7",
+      "status": "released",
+      "episodes": 6,
+      "episodes_aired": 0,
+      "aired_on": "2015-12-24",
+      "released_on": "2016-05-27"
+    },
+    "manga": null
+  },
+  {
+    "relation": "Summary",
+    "relation_russian": "Обобщение",
+    "anime": {
+      "id": 39652,
+      "name": "One Punch Man 2nd Season Commemorative Special",
+      "russian": "Ванпанчмен 2: Памятный эпизод",
+      "image": {
+        "original": "/system/animes/original/39652.jpg?1644832368",
+        "preview": "/system/animes/preview/39652.jpg?1644832368",
+        "x96": "/system/animes/x96/39652.jpg?1644832368",
+        "x48": "/system/animes/x48/39652.jpg?1644832368"
+      },
+      "url": "/animes/z39652-one-punch-man-2nd-season-commemorative-special",
+      "kind": "special",
+      "score": "6.9",
+      "status": "released",
+      "episodes": 1,
+      "episodes_aired": 1,
+      "aired_on": "2019-04-03",
+      "released_on": null
+    },
+    "manga": null
+  },
+  {
+    "relation": "Sequel",
+    "relation_russian": "Продолжение",
+    "anime": {
+      "id": 34134,
+      "name": "One Punch Man 2nd Season",
+      "russian": "Ванпанчмен 2",
+      "image": {
+        "original": "/system/animes/original/34134.jpg?1635255316",
+        "preview": "/system/animes/preview/34134.jpg?1635255316",
+        "x96": "/system/animes/x96/34134.jpg?1635255316",
+        "x48": "/system/animes/x48/34134.jpg?1635255316"
+      },
+      "url": "/animes/z34134-one-punch-man-2nd-season",
+      "kind": "tv",
+      "score": "7.44",
+      "status": "released",
+      "episodes": 12,
+      "episodes_aired": 12,
+      "aired_on": "2019-04-10",
+      "released_on": "2019-07-03"
+    },
+    "manga": null
+  },
+  {
+    "relation": "Other",
+    "relation_russian": "Прочее",
+    "anime": {
+      "id": 49895,
+      "name": "Go! Saitama",
+      "russian": "Вперёд, Сайтама!",
+      "image": {
+        "original": "/system/animes/original/49895.jpg?1641167843",
+        "preview": "/system/animes/preview/49895.jpg?1641167843",
+        "x96": "/system/animes/x96/49895.jpg?1641167843",
+        "x48": "/system/animes/x48/49895.jpg?1641167843"
+      },
+      "url": "/animes/49895-go-saitama",
+      "kind": "ona",
+      "score": "7.03",
+      "status": "released",
+      "episodes": 1,
+      "episodes_aired": 0,
+      "aired_on": "2021-09-23",
+      "released_on": null
+    },
+    "manga": null
+  }
+]

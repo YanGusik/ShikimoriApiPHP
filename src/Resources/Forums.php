@@ -8,6 +8,7 @@ use ShikimoriAPI\ShikimoriAPI;
 use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Forums
 {
@@ -18,6 +19,13 @@ class Forums
         $this->api = $api ?? new ShikimoriAPI();
     }
 
+    /**
+     * @return array
+     * @throws ShikimoriAPIAuthException
+     * @throws ShikimoriAPIException
+     * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
+     */
     public function getAll(): array
     {
         return $this->api->sendRequestWithoutToken('GET', '/forums')['body'];

@@ -2,13 +2,24 @@
 
 namespace Tests;
 
-use ShikimoriAPI\ShikimoriAPI;
-use ShikimoriAPI\Session;
+use PHPUnit\Framework\TestCase;
 use ShikimoriAPI\Request;
+use ShikimoriAPI\Session;
+use ShikimoriAPI\ShikimoriAPI;
 
-abstract class ShikimoriAPITestBase extends \PHPUnit\Framework\TestCase
+abstract class ShikimoriAPITestBase extends TestCase
 {
-    protected string $accessToken = 'default';
+    protected string $accessToken = '1234';
+
+    protected array $header = ['Content-Type' => 'application/json'];
+    protected array $headersAuth = [];
+
+    public function __construct(?string $name = null, array $data = [], $dataName = '')
+    {
+        $this->headersAuth['Content-Type'] = 'application/json';
+        $this->headersAuth['Authorization'] = "Bearer " . $this->accessToken;
+        parent::__construct($name, $data, $dataName);
+    }
 
     protected function setupStub($expectedMethod, $expectedUri, $expectedParameters, $expectedHeaders, $expectedReturn, $expectsAny = false)
     {
@@ -44,7 +55,7 @@ abstract class ShikimoriAPITestBase extends \PHPUnit\Framework\TestCase
         return $stub;
     }
 
-    protected function setupApi($expectedMethod, $expectedUri, $expectedParameters, $expectedHeaders, $expectedReturn)
+    protected function setupApi($expectedMethod, $expectedUri, $expectedParameters, $expectedHeaders, $expectedReturn, $token = null)
     {
         $stub = $this->setupStub(
             $expectedMethod,
@@ -54,6 +65,8 @@ abstract class ShikimoriAPITestBase extends \PHPUnit\Framework\TestCase
             $expectedReturn
         );
 
-        return new ShikimoriAPI([], null, $stub);
+        $api = new ShikimoriAPI([], null, $stub);
+        if ($token) $api->setAccessToken($token);
+        return $api;
     }
 }

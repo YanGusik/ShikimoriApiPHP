@@ -8,6 +8,7 @@ use ShikimoriAPI\ShikimoriAPI;
 use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Bans
 {
@@ -23,6 +24,7 @@ class Bans
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function bans(): array
     {

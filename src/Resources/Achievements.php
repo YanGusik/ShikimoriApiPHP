@@ -8,6 +8,7 @@ use ShikimoriAPI\ShikimoriAPI;
 use ShikimoriAPI\ShikimoriAPIAuthException;
 use ShikimoriAPI\ShikimoriAPIException;
 use ShikimoriAPI\ShikimoriAPINotFoundException;
+use ShikimoriAPI\ShikimoriAPIValidationException;
 
 class Achievements
 {
@@ -24,6 +25,7 @@ class Achievements
      * @throws ShikimoriAPIAuthException
      * @throws ShikimoriAPIException
      * @throws ShikimoriAPINotFoundException
+     * @throws ShikimoriAPIValidationException
      */
     public function achievements(int $user_id): array
     {

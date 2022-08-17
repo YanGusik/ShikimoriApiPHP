@@ -4,7 +4,9 @@ declare(strict_types=1);
 
 namespace ShikimoriAPI;
 
-class ShikimoriAPINotFoundException extends \Exception
+use Exception;
+
+class ShikimoriAPINotFoundException extends Exception
 {
     private $reason;
 

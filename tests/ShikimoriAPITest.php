@@ -1,8 +1,12 @@
-<?php
+<?php /** @noinspection ALL */
+/** @noinspection ALL */
 
 declare(strict_types=1);
 
 namespace Tests;
+
+use ShikimoriAPI\ShikimoriAPI;
+use ShikimoriAPI\ShikimoriAPIException;
 
 class ShikimoriAPITest extends ShikimoriAPITestBase
 {
@@ -29,13 +33,13 @@ class ShikimoriAPITest extends ShikimoriAPITestBase
             ->will(
                 $this->onConsecutiveCalls(
                     $this->throwException(
-                        new \ShikimoriAPI\ShikimoriAPIException('The access token is invalid', 401)
+                        new ShikimoriAPIException('The access token is invalid', 401)
                     ),
                     $this->returnValue($return)
                 )
             );
 
-        $api = new \ShikimoriAPI\ShikimoriAPI($options, $sessionStub, $stub);
+        $api = new ShikimoriAPI($options, $sessionStub, $stub);
         $response = $api->whoami();
 
         $this->assertArrayHasKey('id', $response);
@@ -70,13 +74,13 @@ class ShikimoriAPITest extends ShikimoriAPITestBase
             ->will(
                 $this->onConsecutiveCalls(
                     $this->throwException(
-                        new \ShikimoriAPI\ShikimoriAPIException('Retry later', 429)
+                        new ShikimoriAPIException('Retry later', 429)
                     ),
                     $this->returnValue($return)
                 )
             );
 
-        $api = new \ShikimoriAPI\ShikimoriAPI($options, null, $stub);
+        $api = new ShikimoriAPI($options, null, $stub);
         $api->setAccessToken($this->accessToken);
 
         $response = $api->whoami();

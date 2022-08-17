@@ -1,0 +1,36 @@
+{
+  "links": [
+    {
+      "id": 2,
+      "source_id": 10,
+      "target_id": 11,
+      "source": 1,
+      "target": 0,
+      "weight": 1,
+      "relation": "adaptation"
+    }
+  ],
+  "nodes": [
+    {
+      "id": 11,
+      "date": 1589896437,
+      "name": "аниме_11",
+      "image_url": "/assets/globals/missing_x96.jpg",
+      "url": "/animes/11-anime-10",
+      "year": null,
+      "kind": "TV Сериал",
+      "weight": 0
+    },
+    {
+      "id": 10,
+      "date": 1589896437,
+      "name": "аниме_10",
+      "image_url": "/assets/globals/missing_x96.jpg",
+      "url": "/animes/10-anime-9",
+      "year": null,
+      "kind": "TV Сериал",
+      "weight": 1
+    }
+  ],
+  "current_id": 10
+}
