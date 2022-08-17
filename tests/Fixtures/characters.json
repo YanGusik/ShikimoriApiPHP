@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3,
+    "name": "asdf",
+    "russian": "персонаж_3",
+    "image": {
+      "original": "/assets/globals/missing_original.jpg",
+      "preview": "/assets/globals/missing_preview.jpg",
+      "x96": "/assets/globals/missing_x96.jpg",
+      "x48": "/assets/globals/missing_x48.jpg"
+    },
+    "url": "/characters/3-asdf"
+  }
+]

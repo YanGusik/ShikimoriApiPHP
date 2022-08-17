@@ -1,0 +1,59 @@
+{
+  "id": 2,
+  "name": "character_2",
+  "russian": "персонаж_2",
+  "image": {
+    "original": "/assets/globals/missing_original.jpg",
+    "preview": "/assets/globals/missing_preview.jpg",
+    "x96": "/assets/globals/missing_x96.jpg",
+    "x48": "/assets/globals/missing_x48.jpg"
+  },
+  "url": "/characters/2-character-2",
+  "altname": null,
+  "japanese": null,
+  "description": null,
+  "description_html": "<p class='b-nothing_here'>Нет описания</p>",
+  "description_source": null,
+  "favoured": false,
+  "thread_id": 270103,
+  "topic_id": 270103,
+  "updated_at": "2020-05-19T16:53:57.361+03:00",
+  "seyu": [
+    {
+      "id": 2,
+      "name": "person_2",
+      "russian": "человек_2",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/people/2-person-2"
+    }
+  ],
+  "animes": [
+    {
+      "id": 24,
+      "name": "anime_21",
+      "russian": "аниме_24",
+      "image": {
+        "original": "/assets/globals/missing_original.jpg",
+        "preview": "/assets/globals/missing_preview.jpg",
+        "x96": "/assets/globals/missing_x96.jpg",
+        "x48": "/assets/globals/missing_x48.jpg"
+      },
+      "url": "/animes/24-anime-21",
+      "kind": "tv",
+      "score": "1.0",
+      "status": "released",
+      "episodes": 0,
+      "episodes_aired": 0,
+      "aired_on": null,
+      "released_on": null,
+      "roles": [],
+      "role": ""
+    }
+  ],
+  "mangas": []
+}

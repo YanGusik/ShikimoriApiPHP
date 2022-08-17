@@ -42,6 +42,6 @@ class Characters
      */
     public function search(string $search): array
     {
-        return $this->api->sendRequestWithoutToken('GET', '/characters/search?' . $search)['body'];
+        return $this->api->sendRequestWithoutToken('GET', '/characters/search?search=' . $search)['body'];
     }
 }
