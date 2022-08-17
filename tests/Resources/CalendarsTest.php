@@ -13,13 +13,13 @@ class CalendarsTest extends ShikimoriAPITestBase
 
         $api = $this->setupApi(
             'GET',
-            '/calendar',
+            '/calendar?censored=false',
             [],
             $this->header,
             $return
         );
 
-        $response = (new Calendars($api))->calendar();
+        $response = (new Calendars($api))->calendar(false);
 
         $this->assertEquals(4, count($response));
     }

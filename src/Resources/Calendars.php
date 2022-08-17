@@ -31,7 +31,7 @@ class Calendars
     {
         return $this->api->sendRequestWithoutToken(
             'GET',
-            '/calendar?censored=' . $isCensored ? 'true' : 'false'
+            '/calendar?censored=' . ($isCensored ? 'true' : 'false')
         )['body'];
     }
 }
